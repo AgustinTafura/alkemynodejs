@@ -5,7 +5,8 @@
 		"updated_at" : null,
 		"name" : "Comedy",
 		"ranking" : 1,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 2,
@@ -13,7 +14,8 @@
 		"updated_at" : null,
 		"name" : "Terror",
 		"ranking" : 2,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 3,
@@ -21,7 +23,8 @@
 		"updated_at" : null,
 		"name" : "Drama",
 		"ranking" : 3,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 4,
@@ -29,7 +32,8 @@
 		"updated_at" : null,
 		"name" : "Action",
 		"ranking" : 4,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 5,
@@ -37,7 +41,8 @@
 		"updated_at" : null,
 		"name" : "Science Fiction",
 		"ranking" : 5,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 6,
@@ -45,7 +50,8 @@
 		"updated_at" : null,
 		"name" : "Thriller",
 		"ranking" : 6,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 7,
@@ -53,7 +59,8 @@
 		"updated_at" : null,
 		"name" : "Animation",
 		"ranking" : 7,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 8,
@@ -61,7 +68,8 @@
 		"updated_at" : null,
 		"name" : "Adventure",
 		"ranking" : 8,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 9,
@@ -69,7 +77,8 @@
 		"updated_at" : null,
 		"name" : "Documental",
 		"ranking" : 9,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 10,
@@ -77,7 +86,8 @@
 		"updated_at" : null,
 		"name" : "Children and Family",
 		"ranking" : 10,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 11,
@@ -85,7 +95,8 @@
 		"updated_at" : null,
 		"name" : "Fantasy",
 		"ranking" : 11,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 12,
@@ -93,7 +104,8 @@
 		"updated_at" : null,
 		"name" : "Musical",
 		"ranking" : 12,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	},
 	{
 		"id" : 13,
@@ -101,6 +113,7 @@
 		"updated_at" : null,
 		"name" : "Other",
 		"ranking" : 12,
-		"active" : 1
+		"active" : 1,
+		"image": "https://i.ytimg.com/vi/hvlOk1jzAms/maxresdefault.jpg"
 	}
 ]

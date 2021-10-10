@@ -9,7 +9,8 @@
 		"length" : 120,
 		"genre_id" : 5,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 2,
@@ -21,7 +22,8 @@
 		"length" : 320,
 		"genre_id" : 3,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 3,
@@ -33,7 +35,8 @@
 		"length" : null,
 		"genre_id" : 5,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 4,
@@ -45,7 +48,8 @@
 		"length" : 180,
 		"genre_id" : 5,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 5,
@@ -57,7 +61,8 @@
 		"length" : 270,
 		"genre_id" : 5,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 6,
@@ -69,7 +74,8 @@
 		"length" : 190,
 		"genre_id" : 6,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 7,
@@ -81,7 +87,8 @@
 		"length" : null,
 		"genre_id" : 5,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 8,
@@ -93,7 +100,8 @@
 		"length" : 120,
 		"genre_id" : 8,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 9,
@@ -105,7 +113,8 @@
 		"length" : 200,
 		"genre_id" : 8,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 10,
@@ -117,7 +126,8 @@
 		"length" : null,
 		"genre_id" : 10,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 11,
@@ -129,7 +139,8 @@
 		"length" : 120,
 		"genre_id" : 1,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 12,
@@ -141,7 +152,8 @@
 		"length" : 110,
 		"genre_id" : 7,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 13,
@@ -153,7 +165,8 @@
 		"length" : 150,
 		"genre_id" : 7,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 14,
@@ -165,7 +178,8 @@
 		"length" : 120,
 		"genre_id" : 7,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 15,
@@ -177,7 +191,8 @@
 		"length" : null,
 		"genre_id" : 3,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 16,
@@ -189,7 +204,8 @@
 		"length" : 120,
 		"genre_id" : 1,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 17,
@@ -201,7 +217,8 @@
 		"length" : 120,
 		"genre_id" : 7,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 18,
@@ -213,7 +230,8 @@
 		"length" : 180,
 		"genre_id" : 1,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 19,
@@ -225,7 +243,8 @@
 		"length" : 130,
 		"genre_id" : 8,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 20,
@@ -237,7 +256,8 @@
 		"length" : 130,
 		"genre_id" : 3,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 21,
@@ -249,7 +269,8 @@
 		"length" : 90,
 		"genre_id" : 10,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 24,
@@ -261,7 +282,8 @@
 		"length" : 129,
 		"genre_id" : 1,
 		"revenue" : 0,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 25,
@@ -273,7 +295,8 @@
 		"length" : 105,
 		"genre_id" : 1,
 		"revenue" : 222992559,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 26,
@@ -285,7 +308,8 @@
 		"length" : 222,
 		"genre_id" : 1,
 		"revenue" : 184108944,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 27,
@@ -297,7 +321,8 @@
 		"length" : 195,
 		"genre_id" : 1,
 		"revenue" : 271405401,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 28,
@@ -309,7 +334,8 @@
 		"length" : 158,
 		"genre_id" : 1,
 		"revenue" : 180473123,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 29,
@@ -321,7 +347,8 @@
 		"length" : 152,
 		"genre_id" : 1,
 		"revenue" : 250119522,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 30,
@@ -333,7 +360,8 @@
 		"length" : 133,
 		"genre_id" : 1,
 		"revenue" : 91339309,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 31,
@@ -345,7 +373,8 @@
 		"length" : 170,
 		"genre_id" : 1,
 		"revenue" : 190628087,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 32,
@@ -357,7 +386,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 297947488,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 33,
@@ -369,7 +399,8 @@
 		"length" : 188,
 		"genre_id" : 1,
 		"revenue" : 60560865,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 34,
@@ -381,7 +412,8 @@
 		"length" : 102,
 		"genre_id" : 1,
 		"revenue" : 225994634,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 35,
@@ -393,7 +425,8 @@
 		"length" : 221,
 		"genre_id" : 1,
 		"revenue" : 36807384,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 36,
@@ -405,7 +438,8 @@
 		"length" : 134,
 		"genre_id" : 1,
 		"revenue" : 3297870,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 37,
@@ -417,7 +451,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 45843302,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 38,
@@ -429,7 +464,8 @@
 		"length" : 204,
 		"genre_id" : 1,
 		"revenue" : 10800564,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 39,
@@ -441,7 +477,8 @@
 		"length" : 201,
 		"genre_id" : 1,
 		"revenue" : 173955849,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 40,
@@ -453,7 +490,8 @@
 		"length" : 235,
 		"genre_id" : 1,
 		"revenue" : 148584615,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 41,
@@ -465,7 +503,8 @@
 		"length" : 224,
 		"genre_id" : 1,
 		"revenue" : 269365819,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 42,
@@ -477,7 +516,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 80360152,
-		"director_id" : 51
+		"director_id" : 51,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 43,
@@ -489,7 +529,8 @@
 		"length" : 137,
 		"genre_id" : 1,
 		"revenue" : 100931489,
-		"director_id" : 51
+		"director_id" : 51,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 44,
@@ -501,7 +542,8 @@
 		"length" : 161,
 		"genre_id" : 1,
 		"revenue" : 63682111,
-		"director_id" : 51
+		"director_id" : 51,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 45,
@@ -513,7 +555,8 @@
 		"length" : 230,
 		"genre_id" : 1,
 		"revenue" : 152333429,
-		"director_id" : 51
+		"director_id" : 51,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 46,
@@ -525,7 +568,8 @@
 		"length" : 211,
 		"genre_id" : 1,
 		"revenue" : 146548377,
-		"director_id" : 51
+		"director_id" : 51,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 47,
@@ -537,7 +581,8 @@
 		"length" : 147,
 		"genre_id" : 1,
 		"revenue" : 175509660,
-		"director_id" : 52
+		"director_id" : 52,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 48,
@@ -549,7 +594,8 @@
 		"length" : 151,
 		"genre_id" : 1,
 		"revenue" : 287139575,
-		"director_id" : 52
+		"director_id" : 52,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 49,
@@ -561,7 +607,8 @@
 		"length" : 113,
 		"genre_id" : 1,
 		"revenue" : 141928952,
-		"director_id" : 52
+		"director_id" : 52,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 50,
@@ -573,7 +620,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 119796821,
-		"director_id" : 52
+		"director_id" : 52,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 51,
@@ -585,7 +633,8 @@
 		"length" : 105,
 		"genre_id" : 1,
 		"revenue" : 22813729,
-		"director_id" : 52
+		"director_id" : 52,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 52,
@@ -597,7 +646,8 @@
 		"length" : 142,
 		"genre_id" : 1,
 		"revenue" : 229789585,
-		"director_id" : 53
+		"director_id" : 53,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 53,
@@ -609,7 +659,8 @@
 		"length" : 210,
 		"genre_id" : 1,
 		"revenue" : 281640339,
-		"director_id" : 53
+		"director_id" : 53,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 54,
@@ -621,7 +672,8 @@
 		"length" : 119,
 		"genre_id" : 1,
 		"revenue" : 20022178,
-		"director_id" : 53
+		"director_id" : 53,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 55,
@@ -633,7 +685,8 @@
 		"length" : 229,
 		"genre_id" : 1,
 		"revenue" : 9849574,
-		"director_id" : 53
+		"director_id" : 53,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 56,
@@ -645,7 +698,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 200362887,
-		"director_id" : 53
+		"director_id" : 53,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 57,
@@ -657,7 +711,8 @@
 		"length" : 236,
 		"genre_id" : 1,
 		"revenue" : 73350812,
-		"director_id" : 54
+		"director_id" : 54,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 58,
@@ -669,7 +724,8 @@
 		"length" : 160,
 		"genre_id" : 1,
 		"revenue" : 163355990,
-		"director_id" : 54
+		"director_id" : 54,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 59,
@@ -681,7 +737,8 @@
 		"length" : 207,
 		"genre_id" : 1,
 		"revenue" : 280883190,
-		"director_id" : 54
+		"director_id" : 54,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 60,
@@ -693,7 +750,8 @@
 		"length" : 148,
 		"genre_id" : 1,
 		"revenue" : 161460123,
-		"director_id" : 54
+		"director_id" : 54,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 61,
@@ -705,7 +763,8 @@
 		"length" : 175,
 		"genre_id" : 1,
 		"revenue" : 113868364,
-		"director_id" : 54
+		"director_id" : 54,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 62,
@@ -717,7 +776,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 94403930,
-		"director_id" : 55
+		"director_id" : 55,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 63,
@@ -729,7 +789,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 47565443,
-		"director_id" : 55
+		"director_id" : 55,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 64,
@@ -741,7 +802,8 @@
 		"length" : 235,
 		"genre_id" : 1,
 		"revenue" : 137826308,
-		"director_id" : 55
+		"director_id" : 55,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 65,
@@ -753,7 +815,8 @@
 		"length" : 222,
 		"genre_id" : 1,
 		"revenue" : 293183800,
-		"director_id" : 55
+		"director_id" : 55,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 66,
@@ -765,7 +828,8 @@
 		"length" : 104,
 		"genre_id" : 1,
 		"revenue" : 42000230,
-		"director_id" : 55
+		"director_id" : 55,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 67,
@@ -777,7 +841,8 @@
 		"length" : 168,
 		"genre_id" : 1,
 		"revenue" : 138712663,
-		"director_id" : 56
+		"director_id" : 56,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 68,
@@ -789,7 +854,8 @@
 		"length" : 149,
 		"genre_id" : 1,
 		"revenue" : 188374779,
-		"director_id" : 56
+		"director_id" : 56,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 69,
@@ -801,7 +867,8 @@
 		"length" : 115,
 		"genre_id" : 1,
 		"revenue" : 189709937,
-		"director_id" : 56
+		"director_id" : 56,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 70,
@@ -813,7 +880,8 @@
 		"length" : 117,
 		"genre_id" : 1,
 		"revenue" : 262267041,
-		"director_id" : 56
+		"director_id" : 56,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 71,
@@ -825,7 +893,8 @@
 		"length" : 196,
 		"genre_id" : 1,
 		"revenue" : 107029508,
-		"director_id" : 56
+		"director_id" : 56,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 72,
@@ -837,7 +906,8 @@
 		"length" : 164,
 		"genre_id" : 1,
 		"revenue" : 225043486,
-		"director_id" : 57
+		"director_id" : 57,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 73,
@@ -849,7 +919,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 190259843,
-		"director_id" : 57
+		"director_id" : 57,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 74,
@@ -861,7 +932,8 @@
 		"length" : 124,
 		"genre_id" : 1,
 		"revenue" : 73559734,
-		"director_id" : 57
+		"director_id" : 57,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 75,
@@ -873,7 +945,8 @@
 		"length" : 196,
 		"genre_id" : 1,
 		"revenue" : 103778118,
-		"director_id" : 57
+		"director_id" : 57,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 76,
@@ -885,7 +958,8 @@
 		"length" : 107,
 		"genre_id" : 1,
 		"revenue" : 87966552,
-		"director_id" : 57
+		"director_id" : 57,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 77,
@@ -897,7 +971,8 @@
 		"length" : 143,
 		"genre_id" : 1,
 		"revenue" : 273309109,
-		"director_id" : 58
+		"director_id" : 58,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 78,
@@ -909,7 +984,8 @@
 		"length" : 163,
 		"genre_id" : 1,
 		"revenue" : 16200436,
-		"director_id" : 58
+		"director_id" : 58,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 79,
@@ -921,7 +997,8 @@
 		"length" : 154,
 		"genre_id" : 1,
 		"revenue" : 273252674,
-		"director_id" : 58
+		"director_id" : 58,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 80,
@@ -933,7 +1010,8 @@
 		"length" : 185,
 		"genre_id" : 1,
 		"revenue" : 222937864,
-		"director_id" : 58
+		"director_id" : 58,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 81,
@@ -945,7 +1023,8 @@
 		"length" : 127,
 		"genre_id" : 1,
 		"revenue" : 8375832,
-		"director_id" : 58
+		"director_id" : 58,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 82,
@@ -957,7 +1036,8 @@
 		"length" : 116,
 		"genre_id" : 1,
 		"revenue" : 141023378,
-		"director_id" : 59
+		"director_id" : 59,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 83,
@@ -969,7 +1049,8 @@
 		"length" : 169,
 		"genre_id" : 1,
 		"revenue" : 163078074,
-		"director_id" : 59
+		"director_id" : 59,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 84,
@@ -981,7 +1062,8 @@
 		"length" : 221,
 		"genre_id" : 1,
 		"revenue" : 2721345,
-		"director_id" : 59
+		"director_id" : 59,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 85,
@@ -993,7 +1075,8 @@
 		"length" : 135,
 		"genre_id" : 1,
 		"revenue" : 46677784,
-		"director_id" : 59
+		"director_id" : 59,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 86,
@@ -1005,7 +1088,8 @@
 		"length" : 151,
 		"genre_id" : 1,
 		"revenue" : 287545328,
-		"director_id" : 59
+		"director_id" : 59,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 87,
@@ -1017,7 +1101,8 @@
 		"length" : 226,
 		"genre_id" : 1,
 		"revenue" : 222558414,
-		"director_id" : 60
+		"director_id" : 60,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 88,
@@ -1029,7 +1114,8 @@
 		"length" : 126,
 		"genre_id" : 1,
 		"revenue" : 161185256,
-		"director_id" : 60
+		"director_id" : 60,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 89,
@@ -1041,7 +1127,8 @@
 		"length" : 106,
 		"genre_id" : 1,
 		"revenue" : 114543130,
-		"director_id" : 60
+		"director_id" : 60,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 90,
@@ -1053,7 +1140,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 281503703,
-		"director_id" : 60
+		"director_id" : 60,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 91,
@@ -1065,7 +1153,8 @@
 		"length" : 240,
 		"genre_id" : 1,
 		"revenue" : 171244524,
-		"director_id" : 60
+		"director_id" : 60,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 92,
@@ -1077,7 +1166,8 @@
 		"length" : 148,
 		"genre_id" : 1,
 		"revenue" : 180973698,
-		"director_id" : 61
+		"director_id" : 61,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 93,
@@ -1089,7 +1179,8 @@
 		"length" : 152,
 		"genre_id" : 1,
 		"revenue" : 50681743,
-		"director_id" : 61
+		"director_id" : 61,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 94,
@@ -1101,7 +1192,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 154862141,
-		"director_id" : 61
+		"director_id" : 61,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 95,
@@ -1113,7 +1205,8 @@
 		"length" : 148,
 		"genre_id" : 1,
 		"revenue" : 267181753,
-		"director_id" : 61
+		"director_id" : 61,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 96,
@@ -1125,7 +1218,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 125182947,
-		"director_id" : 61
+		"director_id" : 61,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 97,
@@ -1137,7 +1231,8 @@
 		"length" : 199,
 		"genre_id" : 1,
 		"revenue" : 264645,
-		"director_id" : 62
+		"director_id" : 62,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 98,
@@ -1149,7 +1244,8 @@
 		"length" : 216,
 		"genre_id" : 1,
 		"revenue" : 186921930,
-		"director_id" : 62
+		"director_id" : 62,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 99,
@@ -1161,7 +1257,8 @@
 		"length" : 177,
 		"genre_id" : 1,
 		"revenue" : 180708465,
-		"director_id" : 62
+		"director_id" : 62,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 100,
@@ -1173,7 +1270,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 288211198,
-		"director_id" : 62
+		"director_id" : 62,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 101,
@@ -1185,7 +1283,8 @@
 		"length" : 127,
 		"genre_id" : 1,
 		"revenue" : 122333118,
-		"director_id" : 62
+		"director_id" : 62,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 102,
@@ -1197,7 +1296,8 @@
 		"length" : 142,
 		"genre_id" : 1,
 		"revenue" : 232121022,
-		"director_id" : 63
+		"director_id" : 63,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 103,
@@ -1209,7 +1309,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 32568528,
-		"director_id" : 63
+		"director_id" : 63,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 104,
@@ -1221,7 +1322,8 @@
 		"length" : 166,
 		"genre_id" : 1,
 		"revenue" : 75571976,
-		"director_id" : 63
+		"director_id" : 63,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 105,
@@ -1233,7 +1335,8 @@
 		"length" : 205,
 		"genre_id" : 1,
 		"revenue" : 286629700,
-		"director_id" : 63
+		"director_id" : 63,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 106,
@@ -1245,7 +1348,8 @@
 		"length" : 137,
 		"genre_id" : 1,
 		"revenue" : 145020420,
-		"director_id" : 63
+		"director_id" : 63,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 107,
@@ -1257,7 +1361,8 @@
 		"length" : 130,
 		"genre_id" : 1,
 		"revenue" : 213164120,
-		"director_id" : 64
+		"director_id" : 64,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 108,
@@ -1269,7 +1374,8 @@
 		"length" : 131,
 		"genre_id" : 1,
 		"revenue" : 116809304,
-		"director_id" : 64
+		"director_id" : 64,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 109,
@@ -1281,7 +1387,8 @@
 		"length" : 167,
 		"genre_id" : 1,
 		"revenue" : 71899698,
-		"director_id" : 64
+		"director_id" : 64,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 110,
@@ -1293,7 +1400,8 @@
 		"length" : 137,
 		"genre_id" : 1,
 		"revenue" : 84826519,
-		"director_id" : 64
+		"director_id" : 64,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 111,
@@ -1305,7 +1413,8 @@
 		"length" : 124,
 		"genre_id" : 1,
 		"revenue" : 123491844,
-		"director_id" : 64
+		"director_id" : 64,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 112,
@@ -1317,7 +1426,8 @@
 		"length" : 221,
 		"genre_id" : 1,
 		"revenue" : 67557842,
-		"director_id" : 65
+		"director_id" : 65,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 113,
@@ -1329,7 +1439,8 @@
 		"length" : 106,
 		"genre_id" : 1,
 		"revenue" : 91887533,
-		"director_id" : 65
+		"director_id" : 65,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 114,
@@ -1341,7 +1452,8 @@
 		"length" : 142,
 		"genre_id" : 1,
 		"revenue" : 69899911,
-		"director_id" : 65
+		"director_id" : 65,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 115,
@@ -1353,7 +1465,8 @@
 		"length" : 112,
 		"genre_id" : 1,
 		"revenue" : 296151650,
-		"director_id" : 65
+		"director_id" : 65,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 116,
@@ -1365,7 +1478,8 @@
 		"length" : 132,
 		"genre_id" : 1,
 		"revenue" : 202851584,
-		"director_id" : 65
+		"director_id" : 65,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 117,
@@ -1377,7 +1491,8 @@
 		"length" : 142,
 		"genre_id" : 1,
 		"revenue" : 106336131,
-		"director_id" : 66
+		"director_id" : 66,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 118,
@@ -1389,7 +1504,8 @@
 		"length" : 184,
 		"genre_id" : 1,
 		"revenue" : 119279906,
-		"director_id" : 66
+		"director_id" : 66,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 119,
@@ -1401,7 +1517,8 @@
 		"length" : 193,
 		"genre_id" : 1,
 		"revenue" : 242900859,
-		"director_id" : 66
+		"director_id" : 66,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 120,
@@ -1413,7 +1530,8 @@
 		"length" : 140,
 		"genre_id" : 1,
 		"revenue" : 137051151,
-		"director_id" : 66
+		"director_id" : 66,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 121,
@@ -1425,7 +1543,8 @@
 		"length" : 185,
 		"genre_id" : 1,
 		"revenue" : 13159584,
-		"director_id" : 66
+		"director_id" : 66,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 122,
@@ -1437,7 +1556,8 @@
 		"length" : 176,
 		"genre_id" : 1,
 		"revenue" : 148462962,
-		"director_id" : 67
+		"director_id" : 67,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 123,
@@ -1449,7 +1569,8 @@
 		"length" : 114,
 		"genre_id" : 1,
 		"revenue" : 27481066,
-		"director_id" : 67
+		"director_id" : 67,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 124,
@@ -1461,7 +1582,8 @@
 		"length" : 216,
 		"genre_id" : 1,
 		"revenue" : 118400391,
-		"director_id" : 67
+		"director_id" : 67,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 125,
@@ -1473,7 +1595,8 @@
 		"length" : 124,
 		"genre_id" : 1,
 		"revenue" : 282069328,
-		"director_id" : 67
+		"director_id" : 67,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 126,
@@ -1485,7 +1608,8 @@
 		"length" : 172,
 		"genre_id" : 1,
 		"revenue" : 282404685,
-		"director_id" : 67
+		"director_id" : 67,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 127,
@@ -1497,7 +1621,8 @@
 		"length" : 149,
 		"genre_id" : 1,
 		"revenue" : 274839869,
-		"director_id" : 68
+		"director_id" : 68,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 128,
@@ -1509,7 +1634,8 @@
 		"length" : 193,
 		"genre_id" : 1,
 		"revenue" : 138599214,
-		"director_id" : 68
+		"director_id" : 68,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 129,
@@ -1521,7 +1647,8 @@
 		"length" : 217,
 		"genre_id" : 1,
 		"revenue" : 22236872,
-		"director_id" : 68
+		"director_id" : 68,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 130,
@@ -1533,7 +1660,8 @@
 		"length" : 131,
 		"genre_id" : 1,
 		"revenue" : 284609804,
-		"director_id" : 68
+		"director_id" : 68,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 131,
@@ -1545,7 +1673,8 @@
 		"length" : 215,
 		"genre_id" : 1,
 		"revenue" : 92832579,
-		"director_id" : 68
+		"director_id" : 68,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 132,
@@ -1557,7 +1686,8 @@
 		"length" : 234,
 		"genre_id" : 1,
 		"revenue" : 23041081,
-		"director_id" : 69
+		"director_id" : 69,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 133,
@@ -1569,7 +1699,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 250696934,
-		"director_id" : 69
+		"director_id" : 69,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 134,
@@ -1581,7 +1712,8 @@
 		"length" : 202,
 		"genre_id" : 1,
 		"revenue" : 42335571,
-		"director_id" : 69
+		"director_id" : 69,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 135,
@@ -1593,7 +1725,8 @@
 		"length" : 221,
 		"genre_id" : 1,
 		"revenue" : 246422436,
-		"director_id" : 69
+		"director_id" : 69,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 136,
@@ -1605,7 +1738,8 @@
 		"length" : 114,
 		"genre_id" : 1,
 		"revenue" : 73582306,
-		"director_id" : 69
+		"director_id" : 69,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 137,
@@ -1617,7 +1751,8 @@
 		"length" : 239,
 		"genre_id" : 1,
 		"revenue" : 194837611,
-		"director_id" : 70
+		"director_id" : 70,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 138,
@@ -1629,7 +1764,8 @@
 		"length" : 224,
 		"genre_id" : 1,
 		"revenue" : 52514091,
-		"director_id" : 70
+		"director_id" : 70,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 139,
@@ -1641,7 +1777,8 @@
 		"length" : 195,
 		"genre_id" : 1,
 		"revenue" : 58213282,
-		"director_id" : 70
+		"director_id" : 70,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 140,
@@ -1653,7 +1790,8 @@
 		"length" : 228,
 		"genre_id" : 1,
 		"revenue" : 10462024,
-		"director_id" : 70
+		"director_id" : 70,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 141,
@@ -1665,7 +1803,8 @@
 		"length" : 141,
 		"genre_id" : 1,
 		"revenue" : 154700066,
-		"director_id" : 70
+		"director_id" : 70,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 142,
@@ -1677,7 +1816,8 @@
 		"length" : 129,
 		"genre_id" : 1,
 		"revenue" : 168209193,
-		"director_id" : 71
+		"director_id" : 71,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 143,
@@ -1689,7 +1829,8 @@
 		"length" : 230,
 		"genre_id" : 1,
 		"revenue" : 221368040,
-		"director_id" : 71
+		"director_id" : 71,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 144,
@@ -1701,7 +1842,8 @@
 		"length" : 175,
 		"genre_id" : 1,
 		"revenue" : 40736137,
-		"director_id" : 71
+		"director_id" : 71,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 145,
@@ -1713,7 +1855,8 @@
 		"length" : 140,
 		"genre_id" : 1,
 		"revenue" : 269003803,
-		"director_id" : 71
+		"director_id" : 71,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 146,
@@ -1725,7 +1868,8 @@
 		"length" : 206,
 		"genre_id" : 1,
 		"revenue" : 175957372,
-		"director_id" : 71
+		"director_id" : 71,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 147,
@@ -1737,7 +1881,8 @@
 		"length" : 169,
 		"genre_id" : 1,
 		"revenue" : 256040341,
-		"director_id" : 72
+		"director_id" : 72,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 148,
@@ -1749,7 +1894,8 @@
 		"length" : 184,
 		"genre_id" : 1,
 		"revenue" : 138319144,
-		"director_id" : 72
+		"director_id" : 72,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 149,
@@ -1761,7 +1907,8 @@
 		"length" : 114,
 		"genre_id" : 1,
 		"revenue" : 137568281,
-		"director_id" : 72
+		"director_id" : 72,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 150,
@@ -1773,7 +1920,8 @@
 		"length" : 146,
 		"genre_id" : 1,
 		"revenue" : 158783414,
-		"director_id" : 72
+		"director_id" : 72,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 151,
@@ -1785,7 +1933,8 @@
 		"length" : 227,
 		"genre_id" : 1,
 		"revenue" : 69833044,
-		"director_id" : 72
+		"director_id" : 72,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 152,
@@ -1797,7 +1946,8 @@
 		"length" : 141,
 		"genre_id" : 1,
 		"revenue" : 32792798,
-		"director_id" : 73
+		"director_id" : 73,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 153,
@@ -1809,7 +1959,8 @@
 		"length" : 110,
 		"genre_id" : 1,
 		"revenue" : 39933834,
-		"director_id" : 73
+		"director_id" : 73,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 154,
@@ -1821,7 +1972,8 @@
 		"length" : 175,
 		"genre_id" : 1,
 		"revenue" : 119230243,
-		"director_id" : 73
+		"director_id" : 73,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 155,
@@ -1833,7 +1985,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 291417024,
-		"director_id" : 73
+		"director_id" : 73,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 156,
@@ -1845,7 +1998,8 @@
 		"length" : 121,
 		"genre_id" : 1,
 		"revenue" : 148600125,
-		"director_id" : 73
+		"director_id" : 73,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 157,
@@ -1857,7 +2011,8 @@
 		"length" : 185,
 		"genre_id" : 1,
 		"revenue" : 135436596,
-		"director_id" : 74
+		"director_id" : 74,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 158,
@@ -1869,7 +2024,8 @@
 		"length" : 198,
 		"genre_id" : 1,
 		"revenue" : 87895502,
-		"director_id" : 74
+		"director_id" : 74,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 159,
@@ -1881,7 +2037,8 @@
 		"length" : 148,
 		"genre_id" : 1,
 		"revenue" : 152007416,
-		"director_id" : 74
+		"director_id" : 74,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 160,
@@ -1893,7 +2050,8 @@
 		"length" : 196,
 		"genre_id" : 1,
 		"revenue" : 2243891,
-		"director_id" : 74
+		"director_id" : 74,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 161,
@@ -1905,7 +2063,8 @@
 		"length" : 119,
 		"genre_id" : 1,
 		"revenue" : 175842530,
-		"director_id" : 74
+		"director_id" : 74,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 162,
@@ -1917,7 +2076,8 @@
 		"length" : 110,
 		"genre_id" : 1,
 		"revenue" : 252497088,
-		"director_id" : 75
+		"director_id" : 75,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 163,
@@ -1929,7 +2089,8 @@
 		"length" : 161,
 		"genre_id" : 1,
 		"revenue" : 181987520,
-		"director_id" : 75
+		"director_id" : 75,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 164,
@@ -1941,7 +2102,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 212785052,
-		"director_id" : 75
+		"director_id" : 75,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 165,
@@ -1953,7 +2115,8 @@
 		"length" : 223,
 		"genre_id" : 1,
 		"revenue" : 7241397,
-		"director_id" : 75
+		"director_id" : 75,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 166,
@@ -1965,7 +2128,8 @@
 		"length" : 112,
 		"genre_id" : 1,
 		"revenue" : 79534228,
-		"director_id" : 75
+		"director_id" : 75,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 167,
@@ -1977,7 +2141,8 @@
 		"length" : 100,
 		"genre_id" : 1,
 		"revenue" : 79938390,
-		"director_id" : 76
+		"director_id" : 76,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 168,
@@ -1989,7 +2154,8 @@
 		"length" : 140,
 		"genre_id" : 1,
 		"revenue" : 145006140,
-		"director_id" : 76
+		"director_id" : 76,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 169,
@@ -2001,7 +2167,8 @@
 		"length" : 141,
 		"genre_id" : 1,
 		"revenue" : 87586009,
-		"director_id" : 76
+		"director_id" : 76,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 170,
@@ -2013,7 +2180,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 136015193,
-		"director_id" : 76
+		"director_id" : 76,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 171,
@@ -2025,7 +2193,8 @@
 		"length" : 239,
 		"genre_id" : 1,
 		"revenue" : 118991381,
-		"director_id" : 76
+		"director_id" : 76,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 172,
@@ -2037,7 +2206,8 @@
 		"length" : 107,
 		"genre_id" : 1,
 		"revenue" : 248850670,
-		"director_id" : 77
+		"director_id" : 77,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 173,
@@ -2049,7 +2219,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 155549493,
-		"director_id" : 77
+		"director_id" : 77,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 174,
@@ -2061,7 +2232,8 @@
 		"length" : 134,
 		"genre_id" : 1,
 		"revenue" : 233577616,
-		"director_id" : 77
+		"director_id" : 77,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 175,
@@ -2073,7 +2245,8 @@
 		"length" : 219,
 		"genre_id" : 1,
 		"revenue" : 276341451,
-		"director_id" : 77
+		"director_id" : 77,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 176,
@@ -2085,7 +2258,8 @@
 		"length" : 125,
 		"genre_id" : 1,
 		"revenue" : 144445268,
-		"director_id" : 77
+		"director_id" : 77,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 177,
@@ -2097,7 +2271,8 @@
 		"length" : 216,
 		"genre_id" : 1,
 		"revenue" : 159569228,
-		"director_id" : 78
+		"director_id" : 78,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 178,
@@ -2109,7 +2284,8 @@
 		"length" : 148,
 		"genre_id" : 1,
 		"revenue" : 43063105,
-		"director_id" : 78
+		"director_id" : 78,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 179,
@@ -2121,7 +2297,8 @@
 		"length" : 239,
 		"genre_id" : 1,
 		"revenue" : 145935282,
-		"director_id" : 78
+		"director_id" : 78,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 180,
@@ -2133,7 +2310,8 @@
 		"length" : 217,
 		"genre_id" : 1,
 		"revenue" : 102090651,
-		"director_id" : 78
+		"director_id" : 78,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 181,
@@ -2145,7 +2323,8 @@
 		"length" : 104,
 		"genre_id" : 1,
 		"revenue" : 96416033,
-		"director_id" : 78
+		"director_id" : 78,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 182,
@@ -2157,7 +2336,8 @@
 		"length" : 181,
 		"genre_id" : 1,
 		"revenue" : 251564249,
-		"director_id" : 79
+		"director_id" : 79,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 183,
@@ -2169,7 +2349,8 @@
 		"length" : 240,
 		"genre_id" : 1,
 		"revenue" : 114700427,
-		"director_id" : 79
+		"director_id" : 79,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 184,
@@ -2181,7 +2362,8 @@
 		"length" : 164,
 		"genre_id" : 1,
 		"revenue" : 65064246,
-		"director_id" : 79
+		"director_id" : 79,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 185,
@@ -2193,7 +2375,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 183294024,
-		"director_id" : 79
+		"director_id" : 79,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 186,
@@ -2205,7 +2388,8 @@
 		"length" : 223,
 		"genre_id" : 1,
 		"revenue" : 290412834,
-		"director_id" : 79
+		"director_id" : 79,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 187,
@@ -2217,7 +2401,8 @@
 		"length" : 217,
 		"genre_id" : 1,
 		"revenue" : 66109550,
-		"director_id" : 80
+		"director_id" : 80,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 188,
@@ -2229,7 +2414,8 @@
 		"length" : 152,
 		"genre_id" : 1,
 		"revenue" : 226147622,
-		"director_id" : 80
+		"director_id" : 80,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 189,
@@ -2241,7 +2427,8 @@
 		"length" : 211,
 		"genre_id" : 1,
 		"revenue" : 194862640,
-		"director_id" : 80
+		"director_id" : 80,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 190,
@@ -2253,7 +2440,8 @@
 		"length" : 223,
 		"genre_id" : 1,
 		"revenue" : 299247695,
-		"director_id" : 80
+		"director_id" : 80,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 191,
@@ -2265,7 +2453,8 @@
 		"length" : 228,
 		"genre_id" : 1,
 		"revenue" : 177434560,
-		"director_id" : 80
+		"director_id" : 80,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 192,
@@ -2277,7 +2466,8 @@
 		"length" : 214,
 		"genre_id" : 1,
 		"revenue" : 109435552,
-		"director_id" : 81
+		"director_id" : 81,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 193,
@@ -2289,7 +2479,8 @@
 		"length" : 122,
 		"genre_id" : 1,
 		"revenue" : 52979816,
-		"director_id" : 81
+		"director_id" : 81,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 194,
@@ -2301,7 +2492,8 @@
 		"length" : 184,
 		"genre_id" : 1,
 		"revenue" : 89473271,
-		"director_id" : 81
+		"director_id" : 81,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 195,
@@ -2313,7 +2505,8 @@
 		"length" : 235,
 		"genre_id" : 1,
 		"revenue" : 180421251,
-		"director_id" : 81
+		"director_id" : 81,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 196,
@@ -2325,7 +2518,8 @@
 		"length" : 240,
 		"genre_id" : 1,
 		"revenue" : 23732259,
-		"director_id" : 81
+		"director_id" : 81,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 197,
@@ -2337,7 +2531,8 @@
 		"length" : 182,
 		"genre_id" : 1,
 		"revenue" : 108891479,
-		"director_id" : 82
+		"director_id" : 82,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 198,
@@ -2349,7 +2544,8 @@
 		"length" : 143,
 		"genre_id" : 1,
 		"revenue" : 127285542,
-		"director_id" : 82
+		"director_id" : 82,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 199,
@@ -2361,7 +2557,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 103793869,
-		"director_id" : 82
+		"director_id" : 82,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 200,
@@ -2373,7 +2570,8 @@
 		"length" : 121,
 		"genre_id" : 1,
 		"revenue" : 233226623,
-		"director_id" : 82
+		"director_id" : 82,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 201,
@@ -2385,7 +2583,8 @@
 		"length" : 201,
 		"genre_id" : 1,
 		"revenue" : 130688236,
-		"director_id" : 82
+		"director_id" : 82,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 202,
@@ -2397,7 +2596,8 @@
 		"length" : 121,
 		"genre_id" : 1,
 		"revenue" : 92059408,
-		"director_id" : 83
+		"director_id" : 83,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 203,
@@ -2409,7 +2609,8 @@
 		"length" : 132,
 		"genre_id" : 1,
 		"revenue" : 284739477,
-		"director_id" : 83
+		"director_id" : 83,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 204,
@@ -2421,7 +2622,8 @@
 		"length" : 185,
 		"genre_id" : 1,
 		"revenue" : 39086914,
-		"director_id" : 83
+		"director_id" : 83,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 205,
@@ -2433,7 +2635,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 295146913,
-		"director_id" : 83
+		"director_id" : 83,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 206,
@@ -2445,7 +2648,8 @@
 		"length" : 143,
 		"genre_id" : 1,
 		"revenue" : 249656783,
-		"director_id" : 83
+		"director_id" : 83,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 207,
@@ -2457,7 +2661,8 @@
 		"length" : 155,
 		"genre_id" : 1,
 		"revenue" : 117669699,
-		"director_id" : 84
+		"director_id" : 84,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 208,
@@ -2469,7 +2674,8 @@
 		"length" : 126,
 		"genre_id" : 1,
 		"revenue" : 24355686,
-		"director_id" : 84
+		"director_id" : 84,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 209,
@@ -2481,7 +2687,8 @@
 		"length" : 104,
 		"genre_id" : 1,
 		"revenue" : 126661947,
-		"director_id" : 84
+		"director_id" : 84,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 210,
@@ -2493,7 +2700,8 @@
 		"length" : 181,
 		"genre_id" : 1,
 		"revenue" : 284237431,
-		"director_id" : 84
+		"director_id" : 84,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 211,
@@ -2505,7 +2713,8 @@
 		"length" : 122,
 		"genre_id" : 1,
 		"revenue" : 40143158,
-		"director_id" : 84
+		"director_id" : 84,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 212,
@@ -2517,7 +2726,8 @@
 		"length" : 166,
 		"genre_id" : 1,
 		"revenue" : 98397288,
-		"director_id" : 85
+		"director_id" : 85,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 213,
@@ -2529,7 +2739,8 @@
 		"length" : 127,
 		"genre_id" : 1,
 		"revenue" : 220503198,
-		"director_id" : 85
+		"director_id" : 85,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 214,
@@ -2541,7 +2752,8 @@
 		"length" : 149,
 		"genre_id" : 1,
 		"revenue" : 103096514,
-		"director_id" : 85
+		"director_id" : 85,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 215,
@@ -2553,7 +2765,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 25701104,
-		"director_id" : 85
+		"director_id" : 85,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 216,
@@ -2565,7 +2778,8 @@
 		"length" : 130,
 		"genre_id" : 1,
 		"revenue" : 242278047,
-		"director_id" : 85
+		"director_id" : 85,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 217,
@@ -2577,7 +2791,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 156963237,
-		"director_id" : 86
+		"director_id" : 86,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 218,
@@ -2589,7 +2804,8 @@
 		"length" : 141,
 		"genre_id" : 1,
 		"revenue" : 176634544,
-		"director_id" : 86
+		"director_id" : 86,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 219,
@@ -2601,7 +2817,8 @@
 		"length" : 183,
 		"genre_id" : 1,
 		"revenue" : 255565335,
-		"director_id" : 86
+		"director_id" : 86,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 220,
@@ -2613,7 +2830,8 @@
 		"length" : 141,
 		"genre_id" : 1,
 		"revenue" : 98548907,
-		"director_id" : 86
+		"director_id" : 86,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 221,
@@ -2625,7 +2843,8 @@
 		"length" : 207,
 		"genre_id" : 1,
 		"revenue" : 135111273,
-		"director_id" : 86
+		"director_id" : 86,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 222,
@@ -2637,7 +2856,8 @@
 		"length" : 103,
 		"genre_id" : 1,
 		"revenue" : 144138547,
-		"director_id" : 87
+		"director_id" : 87,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 223,
@@ -2649,7 +2869,8 @@
 		"length" : 127,
 		"genre_id" : 1,
 		"revenue" : 12384350,
-		"director_id" : 87
+		"director_id" : 87,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 224,
@@ -2661,7 +2882,8 @@
 		"length" : 103,
 		"genre_id" : 1,
 		"revenue" : 53994013,
-		"director_id" : 87
+		"director_id" : 87,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 225,
@@ -2673,7 +2895,8 @@
 		"length" : 217,
 		"genre_id" : 1,
 		"revenue" : 8720575,
-		"director_id" : 87
+		"director_id" : 87,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 226,
@@ -2685,7 +2908,8 @@
 		"length" : 218,
 		"genre_id" : 1,
 		"revenue" : 34536270,
-		"director_id" : 87
+		"director_id" : 87,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 227,
@@ -2697,7 +2921,8 @@
 		"length" : 216,
 		"genre_id" : 1,
 		"revenue" : 107222886,
-		"director_id" : 88
+		"director_id" : 88,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 228,
@@ -2709,7 +2934,8 @@
 		"length" : 131,
 		"genre_id" : 1,
 		"revenue" : 71521418,
-		"director_id" : 88
+		"director_id" : 88,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 229,
@@ -2721,7 +2947,8 @@
 		"length" : 198,
 		"genre_id" : 1,
 		"revenue" : 32378843,
-		"director_id" : 88
+		"director_id" : 88,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 230,
@@ -2733,7 +2960,8 @@
 		"length" : 154,
 		"genre_id" : 1,
 		"revenue" : 138688764,
-		"director_id" : 88
+		"director_id" : 88,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 231,
@@ -2745,7 +2973,8 @@
 		"length" : 124,
 		"genre_id" : 1,
 		"revenue" : 31937361,
-		"director_id" : 88
+		"director_id" : 88,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 232,
@@ -2757,7 +2986,8 @@
 		"length" : 226,
 		"genre_id" : 1,
 		"revenue" : 198382374,
-		"director_id" : 89
+		"director_id" : 89,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 233,
@@ -2769,7 +2999,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 18429120,
-		"director_id" : 89
+		"director_id" : 89,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 234,
@@ -2781,7 +3012,8 @@
 		"length" : 130,
 		"genre_id" : 1,
 		"revenue" : 226195506,
-		"director_id" : 89
+		"director_id" : 89,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 235,
@@ -2793,7 +3025,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 262504709,
-		"director_id" : 89
+		"director_id" : 89,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 236,
@@ -2805,7 +3038,8 @@
 		"length" : 140,
 		"genre_id" : 1,
 		"revenue" : 86776300,
-		"director_id" : 89
+		"director_id" : 89,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 237,
@@ -2817,7 +3051,8 @@
 		"length" : 199,
 		"genre_id" : 1,
 		"revenue" : 211708367,
-		"director_id" : 90
+		"director_id" : 90,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 238,
@@ -2829,7 +3064,8 @@
 		"length" : 192,
 		"genre_id" : 1,
 		"revenue" : 218573634,
-		"director_id" : 90
+		"director_id" : 90,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 239,
@@ -2841,7 +3077,8 @@
 		"length" : 213,
 		"genre_id" : 1,
 		"revenue" : 74030711,
-		"director_id" : 90
+		"director_id" : 90,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 240,
@@ -2853,7 +3090,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 57630868,
-		"director_id" : 90
+		"director_id" : 90,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 241,
@@ -2865,7 +3103,8 @@
 		"length" : 165,
 		"genre_id" : 1,
 		"revenue" : 92444834,
-		"director_id" : 90
+		"director_id" : 90,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 242,
@@ -2877,7 +3116,8 @@
 		"length" : 112,
 		"genre_id" : 1,
 		"revenue" : 79899757,
-		"director_id" : 91
+		"director_id" : 91,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 243,
@@ -2889,7 +3129,8 @@
 		"length" : 172,
 		"genre_id" : 1,
 		"revenue" : 188983190,
-		"director_id" : 91
+		"director_id" : 91,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 244,
@@ -2901,7 +3142,8 @@
 		"length" : 102,
 		"genre_id" : 1,
 		"revenue" : 42048795,
-		"director_id" : 91
+		"director_id" : 91,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 245,
@@ -2913,7 +3155,8 @@
 		"length" : 179,
 		"genre_id" : 1,
 		"revenue" : 87350372,
-		"director_id" : 91
+		"director_id" : 91,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 246,
@@ -2925,7 +3168,8 @@
 		"length" : 161,
 		"genre_id" : 1,
 		"revenue" : 267979682,
-		"director_id" : 91
+		"director_id" : 91,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 247,
@@ -2937,7 +3181,8 @@
 		"length" : 225,
 		"genre_id" : 1,
 		"revenue" : 271349093,
-		"director_id" : 92
+		"director_id" : 92,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 248,
@@ -2949,7 +3194,8 @@
 		"length" : 143,
 		"genre_id" : 1,
 		"revenue" : 221843277,
-		"director_id" : 92
+		"director_id" : 92,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 249,
@@ -2961,7 +3207,8 @@
 		"length" : 113,
 		"genre_id" : 1,
 		"revenue" : 254255039,
-		"director_id" : 92
+		"director_id" : 92,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 250,
@@ -2973,7 +3220,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 275735616,
-		"director_id" : 92
+		"director_id" : 92,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 251,
@@ -2985,7 +3233,8 @@
 		"length" : 133,
 		"genre_id" : 1,
 		"revenue" : 263233842,
-		"director_id" : 92
+		"director_id" : 92,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 252,
@@ -2997,7 +3246,8 @@
 		"length" : 176,
 		"genre_id" : 1,
 		"revenue" : 2557407,
-		"director_id" : 93
+		"director_id" : 93,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 253,
@@ -3009,7 +3259,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 206153668,
-		"director_id" : 93
+		"director_id" : 93,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 254,
@@ -3021,7 +3272,8 @@
 		"length" : 181,
 		"genre_id" : 1,
 		"revenue" : 43779174,
-		"director_id" : 93
+		"director_id" : 93,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 255,
@@ -3033,7 +3285,8 @@
 		"length" : 202,
 		"genre_id" : 1,
 		"revenue" : 256801608,
-		"director_id" : 93
+		"director_id" : 93,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 256,
@@ -3045,7 +3298,8 @@
 		"length" : 197,
 		"genre_id" : 1,
 		"revenue" : 84333903,
-		"director_id" : 93
+		"director_id" : 93,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 257,
@@ -3057,7 +3311,8 @@
 		"length" : 200,
 		"genre_id" : 1,
 		"revenue" : 116050970,
-		"director_id" : 94
+		"director_id" : 94,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 258,
@@ -3069,7 +3324,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 266419663,
-		"director_id" : 94
+		"director_id" : 94,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 259,
@@ -3081,7 +3337,8 @@
 		"length" : 129,
 		"genre_id" : 1,
 		"revenue" : 55717128,
-		"director_id" : 94
+		"director_id" : 94,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 260,
@@ -3093,7 +3350,8 @@
 		"length" : 166,
 		"genre_id" : 1,
 		"revenue" : 233656762,
-		"director_id" : 94
+		"director_id" : 94,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 261,
@@ -3105,7 +3363,8 @@
 		"length" : 126,
 		"genre_id" : 1,
 		"revenue" : 997264,
-		"director_id" : 94
+		"director_id" : 94,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 262,
@@ -3117,7 +3376,8 @@
 		"length" : 115,
 		"genre_id" : 1,
 		"revenue" : 286368985,
-		"director_id" : 95
+		"director_id" : 95,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 263,
@@ -3129,7 +3389,8 @@
 		"length" : 160,
 		"genre_id" : 1,
 		"revenue" : 248938841,
-		"director_id" : 95
+		"director_id" : 95,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 264,
@@ -3141,7 +3402,8 @@
 		"length" : 161,
 		"genre_id" : 1,
 		"revenue" : 122156493,
-		"director_id" : 95
+		"director_id" : 95,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 265,
@@ -3153,7 +3415,8 @@
 		"length" : 185,
 		"genre_id" : 1,
 		"revenue" : 206479149,
-		"director_id" : 95
+		"director_id" : 95,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 266,
@@ -3165,7 +3428,8 @@
 		"length" : 118,
 		"genre_id" : 1,
 		"revenue" : 45470347,
-		"director_id" : 95
+		"director_id" : 95,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 267,
@@ -3177,7 +3441,8 @@
 		"length" : 220,
 		"genre_id" : 1,
 		"revenue" : 233668922,
-		"director_id" : 96
+		"director_id" : 96,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 268,
@@ -3189,7 +3454,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 68108969,
-		"director_id" : 96
+		"director_id" : 96,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 269,
@@ -3201,7 +3467,8 @@
 		"length" : 160,
 		"genre_id" : 1,
 		"revenue" : 283726121,
-		"director_id" : 96
+		"director_id" : 96,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 270,
@@ -3213,7 +3480,8 @@
 		"length" : 239,
 		"genre_id" : 1,
 		"revenue" : 276953196,
-		"director_id" : 96
+		"director_id" : 96,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 271,
@@ -3225,7 +3493,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 245915056,
-		"director_id" : 96
+		"director_id" : 96,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 272,
@@ -3237,7 +3506,8 @@
 		"length" : 135,
 		"genre_id" : 1,
 		"revenue" : 276064952,
-		"director_id" : 97
+		"director_id" : 97,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 273,
@@ -3249,7 +3519,8 @@
 		"length" : 177,
 		"genre_id" : 1,
 		"revenue" : 23520705,
-		"director_id" : 97
+		"director_id" : 97,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 274,
@@ -3261,7 +3532,8 @@
 		"length" : 200,
 		"genre_id" : 1,
 		"revenue" : 245702300,
-		"director_id" : 97
+		"director_id" : 97,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 275,
@@ -3273,7 +3545,8 @@
 		"length" : 136,
 		"genre_id" : 1,
 		"revenue" : 125063658,
-		"director_id" : 97
+		"director_id" : 97,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 276,
@@ -3285,7 +3558,8 @@
 		"length" : 103,
 		"genre_id" : 1,
 		"revenue" : 243325997,
-		"director_id" : 97
+		"director_id" : 97,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 277,
@@ -3297,7 +3571,8 @@
 		"length" : 174,
 		"genre_id" : 1,
 		"revenue" : 42008818,
-		"director_id" : 98
+		"director_id" : 98,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 278,
@@ -3309,7 +3584,8 @@
 		"length" : 181,
 		"genre_id" : 1,
 		"revenue" : 69571102,
-		"director_id" : 98
+		"director_id" : 98,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 279,
@@ -3321,7 +3597,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 295866821,
-		"director_id" : 98
+		"director_id" : 98,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 280,
@@ -3333,7 +3610,8 @@
 		"length" : 199,
 		"genre_id" : 1,
 		"revenue" : 253518222,
-		"director_id" : 98
+		"director_id" : 98,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 281,
@@ -3345,7 +3623,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 11503246,
-		"director_id" : 98
+		"director_id" : 98,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 282,
@@ -3357,7 +3636,8 @@
 		"length" : 107,
 		"genre_id" : 1,
 		"revenue" : 36161497,
-		"director_id" : 99
+		"director_id" : 99,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 283,
@@ -3369,7 +3649,8 @@
 		"length" : 222,
 		"genre_id" : 1,
 		"revenue" : 248428201,
-		"director_id" : 99
+		"director_id" : 99,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 284,
@@ -3381,7 +3662,8 @@
 		"length" : 196,
 		"genre_id" : 1,
 		"revenue" : 100475338,
-		"director_id" : 99
+		"director_id" : 99,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 285,
@@ -3393,7 +3675,8 @@
 		"length" : 157,
 		"genre_id" : 1,
 		"revenue" : 189509250,
-		"director_id" : 99
+		"director_id" : 99,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 286,
@@ -3405,7 +3688,8 @@
 		"length" : 225,
 		"genre_id" : 1,
 		"revenue" : 143169444,
-		"director_id" : 99
+		"director_id" : 99,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 287,
@@ -3417,7 +3701,8 @@
 		"length" : 183,
 		"genre_id" : 1,
 		"revenue" : 194148789,
-		"director_id" : 100
+		"director_id" : 100,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 288,
@@ -3429,7 +3714,8 @@
 		"length" : 156,
 		"genre_id" : 1,
 		"revenue" : 105952145,
-		"director_id" : 100
+		"director_id" : 100,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 289,
@@ -3441,7 +3727,8 @@
 		"length" : 152,
 		"genre_id" : 1,
 		"revenue" : 59063282,
-		"director_id" : 100
+		"director_id" : 100,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 290,
@@ -3453,7 +3740,8 @@
 		"length" : 226,
 		"genre_id" : 1,
 		"revenue" : 107404629,
-		"director_id" : 100
+		"director_id" : 100,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 291,
@@ -3465,7 +3753,8 @@
 		"length" : 195,
 		"genre_id" : 1,
 		"revenue" : 167461488,
-		"director_id" : 100
+		"director_id" : 100,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 292,
@@ -3477,7 +3766,8 @@
 		"length" : 181,
 		"genre_id" : 1,
 		"revenue" : 71975077,
-		"director_id" : 101
+		"director_id" : 101,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 293,
@@ -3489,7 +3779,8 @@
 		"length" : 168,
 		"genre_id" : 1,
 		"revenue" : 49458554,
-		"director_id" : 101
+		"director_id" : 101,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 294,
@@ -3501,7 +3792,8 @@
 		"length" : 174,
 		"genre_id" : 1,
 		"revenue" : 37056797,
-		"director_id" : 101
+		"director_id" : 101,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 295,
@@ -3513,7 +3805,8 @@
 		"length" : 121,
 		"genre_id" : 1,
 		"revenue" : 129474127,
-		"director_id" : 101
+		"director_id" : 101,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 296,
@@ -3525,7 +3818,8 @@
 		"length" : 180,
 		"genre_id" : 1,
 		"revenue" : 184251890,
-		"director_id" : 101
+		"director_id" : 101,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 297,
@@ -3537,7 +3831,8 @@
 		"length" : 177,
 		"genre_id" : 1,
 		"revenue" : 67904924,
-		"director_id" : 102
+		"director_id" : 102,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 298,
@@ -3549,7 +3844,8 @@
 		"length" : 105,
 		"genre_id" : 1,
 		"revenue" : 78303448,
-		"director_id" : 102
+		"director_id" : 102,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 299,
@@ -3561,7 +3857,8 @@
 		"length" : 175,
 		"genre_id" : 1,
 		"revenue" : 28860476,
-		"director_id" : 102
+		"director_id" : 102,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 300,
@@ -3573,7 +3870,8 @@
 		"length" : 142,
 		"genre_id" : 1,
 		"revenue" : 55054854,
-		"director_id" : 102
+		"director_id" : 102,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 301,
@@ -3585,7 +3883,8 @@
 		"length" : 156,
 		"genre_id" : 1,
 		"revenue" : 263219498,
-		"director_id" : 102
+		"director_id" : 102,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 302,
@@ -3597,7 +3896,8 @@
 		"length" : 180,
 		"genre_id" : 1,
 		"revenue" : 24104407,
-		"director_id" : 103
+		"director_id" : 103,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 303,
@@ -3609,7 +3909,8 @@
 		"length" : 162,
 		"genre_id" : 1,
 		"revenue" : 243099105,
-		"director_id" : 103
+		"director_id" : 103,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 304,
@@ -3621,7 +3922,8 @@
 		"length" : 200,
 		"genre_id" : 1,
 		"revenue" : 241064058,
-		"director_id" : 103
+		"director_id" : 103,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 305,
@@ -3633,7 +3935,8 @@
 		"length" : 134,
 		"genre_id" : 1,
 		"revenue" : 24839836,
-		"director_id" : 103
+		"director_id" : 103,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 306,
@@ -3645,7 +3948,8 @@
 		"length" : 152,
 		"genre_id" : 1,
 		"revenue" : 26079344,
-		"director_id" : 103
+		"director_id" : 103,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 307,
@@ -3657,7 +3961,8 @@
 		"length" : 127,
 		"genre_id" : 1,
 		"revenue" : 183892182,
-		"director_id" : 104
+		"director_id" : 104,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 308,
@@ -3669,7 +3974,8 @@
 		"length" : 220,
 		"genre_id" : 1,
 		"revenue" : 214855300,
-		"director_id" : 104
+		"director_id" : 104,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 309,
@@ -3681,7 +3987,8 @@
 		"length" : 199,
 		"genre_id" : 1,
 		"revenue" : 24817886,
-		"director_id" : 104
+		"director_id" : 104,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 310,
@@ -3693,7 +4000,8 @@
 		"length" : 110,
 		"genre_id" : 1,
 		"revenue" : 63856804,
-		"director_id" : 104
+		"director_id" : 104,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 311,
@@ -3705,7 +4013,8 @@
 		"length" : 159,
 		"genre_id" : 1,
 		"revenue" : 163332548,
-		"director_id" : 104
+		"director_id" : 104,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 312,
@@ -3717,7 +4026,8 @@
 		"length" : 159,
 		"genre_id" : 1,
 		"revenue" : 255592980,
-		"director_id" : 105
+		"director_id" : 105,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 313,
@@ -3729,7 +4039,8 @@
 		"length" : 200,
 		"genre_id" : 1,
 		"revenue" : 267627181,
-		"director_id" : 105
+		"director_id" : 105,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 314,
@@ -3741,7 +4052,8 @@
 		"length" : 202,
 		"genre_id" : 1,
 		"revenue" : 275827,
-		"director_id" : 105
+		"director_id" : 105,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 315,
@@ -3753,7 +4065,8 @@
 		"length" : 206,
 		"genre_id" : 1,
 		"revenue" : 205369585,
-		"director_id" : 105
+		"director_id" : 105,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 316,
@@ -3765,7 +4078,8 @@
 		"length" : 202,
 		"genre_id" : 1,
 		"revenue" : 161563598,
-		"director_id" : 105
+		"director_id" : 105,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 317,
@@ -3777,7 +4091,8 @@
 		"length" : 141,
 		"genre_id" : 1,
 		"revenue" : 74572679,
-		"director_id" : 106
+		"director_id" : 106,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 318,
@@ -3789,7 +4104,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 210343276,
-		"director_id" : 106
+		"director_id" : 106,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 319,
@@ -3801,7 +4117,8 @@
 		"length" : 140,
 		"genre_id" : 1,
 		"revenue" : 63522086,
-		"director_id" : 106
+		"director_id" : 106,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 320,
@@ -3813,7 +4130,8 @@
 		"length" : 163,
 		"genre_id" : 1,
 		"revenue" : 200050760,
-		"director_id" : 106
+		"director_id" : 106,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 321,
@@ -3825,7 +4143,8 @@
 		"length" : 216,
 		"genre_id" : 1,
 		"revenue" : 130625371,
-		"director_id" : 106
+		"director_id" : 106,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 322,
@@ -3837,7 +4156,8 @@
 		"length" : 149,
 		"genre_id" : 1,
 		"revenue" : 232546527,
-		"director_id" : 107
+		"director_id" : 107,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 323,
@@ -3849,7 +4169,8 @@
 		"length" : 182,
 		"genre_id" : 1,
 		"revenue" : 281782182,
-		"director_id" : 107
+		"director_id" : 107,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 324,
@@ -3861,7 +4182,8 @@
 		"length" : 239,
 		"genre_id" : 1,
 		"revenue" : 156167719,
-		"director_id" : 107
+		"director_id" : 107,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 325,
@@ -3873,7 +4195,8 @@
 		"length" : 183,
 		"genre_id" : 1,
 		"revenue" : 76571362,
-		"director_id" : 107
+		"director_id" : 107,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 326,
@@ -3885,7 +4208,8 @@
 		"length" : 110,
 		"genre_id" : 1,
 		"revenue" : 251727942,
-		"director_id" : 107
+		"director_id" : 107,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 327,
@@ -3897,7 +4221,8 @@
 		"length" : 203,
 		"genre_id" : 1,
 		"revenue" : 42752245,
-		"director_id" : 108
+		"director_id" : 108,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 328,
@@ -3909,7 +4234,8 @@
 		"length" : 151,
 		"genre_id" : 1,
 		"revenue" : 266789025,
-		"director_id" : 108
+		"director_id" : 108,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 329,
@@ -3921,7 +4247,8 @@
 		"length" : 193,
 		"genre_id" : 1,
 		"revenue" : 90574359,
-		"director_id" : 108
+		"director_id" : 108,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 330,
@@ -3933,7 +4260,8 @@
 		"length" : 171,
 		"genre_id" : 1,
 		"revenue" : 86982868,
-		"director_id" : 108
+		"director_id" : 108,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 331,
@@ -3945,7 +4273,8 @@
 		"length" : 121,
 		"genre_id" : 1,
 		"revenue" : 106503170,
-		"director_id" : 108
+		"director_id" : 108,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 332,
@@ -3957,7 +4286,8 @@
 		"length" : 198,
 		"genre_id" : 1,
 		"revenue" : 251323602,
-		"director_id" : 109
+		"director_id" : 109,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 333,
@@ -3969,7 +4299,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 182145826,
-		"director_id" : 109
+		"director_id" : 109,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 334,
@@ -3981,7 +4312,8 @@
 		"length" : 209,
 		"genre_id" : 1,
 		"revenue" : 8868698,
-		"director_id" : 109
+		"director_id" : 109,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 335,
@@ -3993,7 +4325,8 @@
 		"length" : 191,
 		"genre_id" : 1,
 		"revenue" : 177848153,
-		"director_id" : 109
+		"director_id" : 109,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 336,
@@ -4005,7 +4338,8 @@
 		"length" : 238,
 		"genre_id" : 1,
 		"revenue" : 195995805,
-		"director_id" : 109
+		"director_id" : 109,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 337,
@@ -4017,7 +4351,8 @@
 		"length" : 223,
 		"genre_id" : 1,
 		"revenue" : 122359453,
-		"director_id" : 110
+		"director_id" : 110,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 338,
@@ -4029,7 +4364,8 @@
 		"length" : 209,
 		"genre_id" : 1,
 		"revenue" : 175191516,
-		"director_id" : 110
+		"director_id" : 110,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 339,
@@ -4041,7 +4377,8 @@
 		"length" : 156,
 		"genre_id" : 1,
 		"revenue" : 174665234,
-		"director_id" : 110
+		"director_id" : 110,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 340,
@@ -4053,7 +4390,8 @@
 		"length" : 150,
 		"genre_id" : 1,
 		"revenue" : 71694416,
-		"director_id" : 110
+		"director_id" : 110,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 341,
@@ -4065,7 +4403,8 @@
 		"length" : 237,
 		"genre_id" : 1,
 		"revenue" : 144029203,
-		"director_id" : 110
+		"director_id" : 110,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 342,
@@ -4077,7 +4416,8 @@
 		"length" : 136,
 		"genre_id" : 1,
 		"revenue" : 99532529,
-		"director_id" : 111
+		"director_id" : 111,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 343,
@@ -4089,7 +4429,8 @@
 		"length" : 122,
 		"genre_id" : 1,
 		"revenue" : 286302136,
-		"director_id" : 111
+		"director_id" : 111,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 344,
@@ -4101,7 +4442,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 207136028,
-		"director_id" : 111
+		"director_id" : 111,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 345,
@@ -4113,7 +4455,8 @@
 		"length" : 146,
 		"genre_id" : 1,
 		"revenue" : 120539060,
-		"director_id" : 111
+		"director_id" : 111,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 346,
@@ -4125,7 +4468,8 @@
 		"length" : 122,
 		"genre_id" : 1,
 		"revenue" : 213563569,
-		"director_id" : 111
+		"director_id" : 111,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 347,
@@ -4137,7 +4481,8 @@
 		"length" : 148,
 		"genre_id" : 1,
 		"revenue" : 183345935,
-		"director_id" : 112
+		"director_id" : 112,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 348,
@@ -4149,7 +4494,8 @@
 		"length" : 171,
 		"genre_id" : 1,
 		"revenue" : 200442066,
-		"director_id" : 112
+		"director_id" : 112,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 349,
@@ -4161,7 +4507,8 @@
 		"length" : 238,
 		"genre_id" : 1,
 		"revenue" : 99388558,
-		"director_id" : 112
+		"director_id" : 112,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 350,
@@ -4173,7 +4520,8 @@
 		"length" : 184,
 		"genre_id" : 1,
 		"revenue" : 92258169,
-		"director_id" : 112
+		"director_id" : 112,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 351,
@@ -4185,7 +4533,8 @@
 		"length" : 123,
 		"genre_id" : 1,
 		"revenue" : 25449738,
-		"director_id" : 112
+		"director_id" : 112,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 352,
@@ -4197,7 +4546,8 @@
 		"length" : 195,
 		"genre_id" : 1,
 		"revenue" : 235162219,
-		"director_id" : 113
+		"director_id" : 113,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 353,
@@ -4209,7 +4559,8 @@
 		"length" : 208,
 		"genre_id" : 1,
 		"revenue" : 267510795,
-		"director_id" : 113
+		"director_id" : 113,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 354,
@@ -4221,7 +4572,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 54861682,
-		"director_id" : 113
+		"director_id" : 113,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 355,
@@ -4233,7 +4585,8 @@
 		"length" : 146,
 		"genre_id" : 1,
 		"revenue" : 253913078,
-		"director_id" : 113
+		"director_id" : 113,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 356,
@@ -4245,7 +4598,8 @@
 		"length" : 118,
 		"genre_id" : 1,
 		"revenue" : 192766394,
-		"director_id" : 113
+		"director_id" : 113,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 357,
@@ -4257,7 +4611,8 @@
 		"length" : 217,
 		"genre_id" : 1,
 		"revenue" : 106480287,
-		"director_id" : 114
+		"director_id" : 114,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 358,
@@ -4269,7 +4624,8 @@
 		"length" : 202,
 		"genre_id" : 1,
 		"revenue" : 27244006,
-		"director_id" : 114
+		"director_id" : 114,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 359,
@@ -4281,7 +4637,8 @@
 		"length" : 178,
 		"genre_id" : 1,
 		"revenue" : 93804094,
-		"director_id" : 114
+		"director_id" : 114,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 360,
@@ -4293,7 +4650,8 @@
 		"length" : 188,
 		"genre_id" : 1,
 		"revenue" : 207707812,
-		"director_id" : 114
+		"director_id" : 114,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 361,
@@ -4305,7 +4663,8 @@
 		"length" : 158,
 		"genre_id" : 1,
 		"revenue" : 41791124,
-		"director_id" : 114
+		"director_id" : 114,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 362,
@@ -4317,7 +4676,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 222385981,
-		"director_id" : 115
+		"director_id" : 115,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 363,
@@ -4329,7 +4689,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 185093367,
-		"director_id" : 115
+		"director_id" : 115,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 364,
@@ -4341,7 +4702,8 @@
 		"length" : 192,
 		"genre_id" : 1,
 		"revenue" : 144799817,
-		"director_id" : 115
+		"director_id" : 115,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 365,
@@ -4353,7 +4715,8 @@
 		"length" : 166,
 		"genre_id" : 1,
 		"revenue" : 138994460,
-		"director_id" : 115
+		"director_id" : 115,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 366,
@@ -4365,7 +4728,8 @@
 		"length" : 223,
 		"genre_id" : 1,
 		"revenue" : 171398131,
-		"director_id" : 115
+		"director_id" : 115,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 367,
@@ -4377,7 +4741,8 @@
 		"length" : 231,
 		"genre_id" : 1,
 		"revenue" : 71440392,
-		"director_id" : 116
+		"director_id" : 116,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 368,
@@ -4389,7 +4754,8 @@
 		"length" : 150,
 		"genre_id" : 1,
 		"revenue" : 158721162,
-		"director_id" : 116
+		"director_id" : 116,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 369,
@@ -4401,7 +4767,8 @@
 		"length" : 223,
 		"genre_id" : 1,
 		"revenue" : 94098822,
-		"director_id" : 116
+		"director_id" : 116,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 370,
@@ -4413,7 +4780,8 @@
 		"length" : 205,
 		"genre_id" : 1,
 		"revenue" : 117440582,
-		"director_id" : 116
+		"director_id" : 116,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 371,
@@ -4425,7 +4793,8 @@
 		"length" : 119,
 		"genre_id" : 1,
 		"revenue" : 230033806,
-		"director_id" : 116
+		"director_id" : 116,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 372,
@@ -4437,7 +4806,8 @@
 		"length" : 218,
 		"genre_id" : 1,
 		"revenue" : 45214332,
-		"director_id" : 117
+		"director_id" : 117,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 373,
@@ -4449,7 +4819,8 @@
 		"length" : 151,
 		"genre_id" : 1,
 		"revenue" : 127500363,
-		"director_id" : 117
+		"director_id" : 117,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 374,
@@ -4461,7 +4832,8 @@
 		"length" : 122,
 		"genre_id" : 1,
 		"revenue" : 45852502,
-		"director_id" : 117
+		"director_id" : 117,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 375,
@@ -4473,7 +4845,8 @@
 		"length" : 158,
 		"genre_id" : 1,
 		"revenue" : 114908198,
-		"director_id" : 117
+		"director_id" : 117,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 376,
@@ -4485,7 +4858,8 @@
 		"length" : 231,
 		"genre_id" : 1,
 		"revenue" : 177861799,
-		"director_id" : 117
+		"director_id" : 117,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 377,
@@ -4497,7 +4871,8 @@
 		"length" : 240,
 		"genre_id" : 1,
 		"revenue" : 150402449,
-		"director_id" : 118
+		"director_id" : 118,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 378,
@@ -4509,7 +4884,8 @@
 		"length" : 109,
 		"genre_id" : 1,
 		"revenue" : 191915573,
-		"director_id" : 118
+		"director_id" : 118,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 379,
@@ -4521,7 +4897,8 @@
 		"length" : 226,
 		"genre_id" : 1,
 		"revenue" : 99834580,
-		"director_id" : 118
+		"director_id" : 118,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 380,
@@ -4533,7 +4910,8 @@
 		"length" : 151,
 		"genre_id" : 1,
 		"revenue" : 260668187,
-		"director_id" : 118
+		"director_id" : 118,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 381,
@@ -4545,7 +4923,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 198442544,
-		"director_id" : 118
+		"director_id" : 118,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 382,
@@ -4557,7 +4936,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 64611824,
-		"director_id" : 119
+		"director_id" : 119,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 383,
@@ -4569,7 +4949,8 @@
 		"length" : 196,
 		"genre_id" : 1,
 		"revenue" : 169683745,
-		"director_id" : 119
+		"director_id" : 119,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 384,
@@ -4581,7 +4962,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 27250911,
-		"director_id" : 119
+		"director_id" : 119,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 385,
@@ -4593,7 +4975,8 @@
 		"length" : 105,
 		"genre_id" : 1,
 		"revenue" : 119438284,
-		"director_id" : 119
+		"director_id" : 119,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 386,
@@ -4605,7 +4988,8 @@
 		"length" : 167,
 		"genre_id" : 1,
 		"revenue" : 104696984,
-		"director_id" : 119
+		"director_id" : 119,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 387,
@@ -4617,7 +5001,8 @@
 		"length" : 189,
 		"genre_id" : 1,
 		"revenue" : 78908077,
-		"director_id" : 120
+		"director_id" : 120,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 388,
@@ -4629,7 +5014,8 @@
 		"length" : 217,
 		"genre_id" : 1,
 		"revenue" : 224359620,
-		"director_id" : 120
+		"director_id" : 120,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 389,
@@ -4641,7 +5027,8 @@
 		"length" : 127,
 		"genre_id" : 1,
 		"revenue" : 126115871,
-		"director_id" : 120
+		"director_id" : 120,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 390,
@@ -4653,7 +5040,8 @@
 		"length" : 189,
 		"genre_id" : 1,
 		"revenue" : 96323248,
-		"director_id" : 120
+		"director_id" : 120,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 391,
@@ -4665,7 +5053,8 @@
 		"length" : 182,
 		"genre_id" : 1,
 		"revenue" : 284891503,
-		"director_id" : 120
+		"director_id" : 120,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 392,
@@ -4677,7 +5066,8 @@
 		"length" : 105,
 		"genre_id" : 1,
 		"revenue" : 215805975,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 393,
@@ -4689,7 +5079,8 @@
 		"length" : 118,
 		"genre_id" : 1,
 		"revenue" : 141302975,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 394,
@@ -4701,7 +5092,8 @@
 		"length" : 100,
 		"genre_id" : 1,
 		"revenue" : 255655307,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 395,
@@ -4713,7 +5105,8 @@
 		"length" : 102,
 		"genre_id" : 1,
 		"revenue" : 123366403,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 396,
@@ -4725,7 +5118,8 @@
 		"length" : 107,
 		"genre_id" : 1,
 		"revenue" : 254643763,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 397,
@@ -4737,7 +5131,8 @@
 		"length" : 204,
 		"genre_id" : 1,
 		"revenue" : 214622196,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 398,
@@ -4749,7 +5144,8 @@
 		"length" : 190,
 		"genre_id" : 1,
 		"revenue" : 72072212,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 399,
@@ -4761,7 +5157,8 @@
 		"length" : 191,
 		"genre_id" : 1,
 		"revenue" : 198680468,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 400,
@@ -4773,7 +5170,8 @@
 		"length" : 170,
 		"genre_id" : 1,
 		"revenue" : 101395053,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 401,
@@ -4785,7 +5183,8 @@
 		"length" : 230,
 		"genre_id" : 1,
 		"revenue" : 276378560,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 402,
@@ -4797,7 +5196,8 @@
 		"length" : 163,
 		"genre_id" : 1,
 		"revenue" : 227757164,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 403,
@@ -4809,7 +5209,8 @@
 		"length" : 139,
 		"genre_id" : 1,
 		"revenue" : 184352461,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 404,
@@ -4821,7 +5222,8 @@
 		"length" : 171,
 		"genre_id" : 1,
 		"revenue" : 1777530,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 405,
@@ -4833,7 +5235,8 @@
 		"length" : 175,
 		"genre_id" : 1,
 		"revenue" : 278297882,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 406,
@@ -4845,7 +5248,8 @@
 		"length" : 179,
 		"genre_id" : 1,
 		"revenue" : 25309956,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 407,
@@ -4857,7 +5261,8 @@
 		"length" : 126,
 		"genre_id" : 1,
 		"revenue" : 113829982,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 408,
@@ -4869,7 +5274,8 @@
 		"length" : 113,
 		"genre_id" : 1,
 		"revenue" : 175046056,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 409,
@@ -4881,7 +5287,8 @@
 		"length" : 234,
 		"genre_id" : 1,
 		"revenue" : 17835458,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 410,
@@ -4893,7 +5300,8 @@
 		"length" : 209,
 		"genre_id" : 1,
 		"revenue" : 4431426,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 411,
@@ -4905,7 +5313,8 @@
 		"length" : 188,
 		"genre_id" : 1,
 		"revenue" : 226373377,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 412,
@@ -4917,7 +5326,8 @@
 		"length" : 116,
 		"genre_id" : 1,
 		"revenue" : 102162940,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 413,
@@ -4929,7 +5339,8 @@
 		"length" : 214,
 		"genre_id" : 1,
 		"revenue" : 91523974,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 414,
@@ -4941,7 +5352,8 @@
 		"length" : 112,
 		"genre_id" : 1,
 		"revenue" : 96367643,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 415,
@@ -4953,7 +5365,8 @@
 		"length" : 180,
 		"genre_id" : 1,
 		"revenue" : 37053047,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 416,
@@ -4965,7 +5378,8 @@
 		"length" : 117,
 		"genre_id" : 1,
 		"revenue" : 232050527,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 417,
@@ -4977,7 +5391,8 @@
 		"length" : 208,
 		"genre_id" : 1,
 		"revenue" : 261020505,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 418,
@@ -4989,7 +5404,8 @@
 		"length" : 205,
 		"genre_id" : 1,
 		"revenue" : 208279814,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 419,
@@ -5001,7 +5417,8 @@
 		"length" : 197,
 		"genre_id" : 1,
 		"revenue" : 223408940,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 420,
@@ -5013,7 +5430,8 @@
 		"length" : 108,
 		"genre_id" : 1,
 		"revenue" : 41225671,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 421,
@@ -5025,7 +5443,8 @@
 		"length" : 111,
 		"genre_id" : 1,
 		"revenue" : 113639947,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 422,
@@ -5037,7 +5456,8 @@
 		"length" : 187,
 		"genre_id" : 1,
 		"revenue" : 149653193,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 423,
@@ -5049,7 +5469,8 @@
 		"length" : 212,
 		"genre_id" : 1,
 		"revenue" : 69711197,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 424,
@@ -5061,7 +5482,8 @@
 		"length" : 147,
 		"genre_id" : 1,
 		"revenue" : 247387036,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 425,
@@ -5073,7 +5495,8 @@
 		"length" : 116,
 		"genre_id" : 1,
 		"revenue" : 264963825,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 426,
@@ -5085,7 +5508,8 @@
 		"length" : 233,
 		"genre_id" : 1,
 		"revenue" : 23882356,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 427,
@@ -5097,7 +5521,8 @@
 		"length" : 235,
 		"genre_id" : 1,
 		"revenue" : 117661190,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 428,
@@ -5109,7 +5534,8 @@
 		"length" : 169,
 		"genre_id" : 1,
 		"revenue" : 50697313,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 429,
@@ -5121,7 +5547,8 @@
 		"length" : 118,
 		"genre_id" : 1,
 		"revenue" : 233248194,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 430,
@@ -5133,7 +5560,8 @@
 		"length" : 161,
 		"genre_id" : 1,
 		"revenue" : 18336068,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 431,
@@ -5145,7 +5573,8 @@
 		"length" : 140,
 		"genre_id" : 1,
 		"revenue" : 51936660,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 432,
@@ -5157,7 +5586,8 @@
 		"length" : 103,
 		"genre_id" : 1,
 		"revenue" : 190535248,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 433,
@@ -5169,7 +5599,8 @@
 		"length" : 149,
 		"genre_id" : 1,
 		"revenue" : 240328344,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 434,
@@ -5181,7 +5612,8 @@
 		"length" : 160,
 		"genre_id" : 1,
 		"revenue" : 141354501,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 435,
@@ -5193,7 +5625,8 @@
 		"length" : 240,
 		"genre_id" : 1,
 		"revenue" : 26864107,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 436,
@@ -5205,7 +5638,8 @@
 		"length" : 110,
 		"genre_id" : 1,
 		"revenue" : 254690714,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 437,
@@ -5217,7 +5651,8 @@
 		"length" : 232,
 		"genre_id" : 1,
 		"revenue" : 141209381,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 438,
@@ -5229,7 +5664,8 @@
 		"length" : 184,
 		"genre_id" : 1,
 		"revenue" : 12011345,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 439,
@@ -5241,7 +5677,8 @@
 		"length" : 135,
 		"genre_id" : 1,
 		"revenue" : 75453200,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 440,
@@ -5253,7 +5690,8 @@
 		"length" : 100,
 		"genre_id" : 1,
 		"revenue" : 288353305,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 441,
@@ -5265,7 +5703,8 @@
 		"length" : 222,
 		"genre_id" : 1,
 		"revenue" : 81364539,
-		"director_id" : 1
+		"director_id" : 1,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg"
 	},
 	{
 		"id" : 442,

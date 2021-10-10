@@ -9,11 +9,11 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      actorId: {
+      characterId: {
         type: Sequelize.DataTypes.INTEGER,
         references: {
           model: {
-            tableName: 'chacacters',
+            tableName: 'characters',
           },
           key: 'id'
         },
