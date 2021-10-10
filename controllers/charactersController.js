@@ -5,16 +5,22 @@ module.exports = {
 
   getAllCharacters :  async(req, res, next) => {
 
-    const { id } = req.params
+    const { name, age, movies  } = req.query
     const whereStatement = {};
+    const whereMovieStatement = {};
 
-    if(id !== undefined){ whereStatement.id = id}
+    if(name !== undefined){ whereStatement.name = name}
+    if(age !== undefined){ whereStatement.age = age}
+    if(movies !== undefined){ whereMovieStatement.id = movies}
 
     try {
       const characters = await Character.findAll({
         where: whereStatement,
         // attributes: ['name', 'image']
-        // include: {all: true},
+        include: {
+          model: Movie,
+          where: whereMovieStatement
+        },
       })
       return res.status(201).json({characters:characters});
 
@@ -26,7 +32,10 @@ module.exports = {
 
   getCharacter : async (req, res) => {
     const {id} = req.params
-    await Character.findOne({where:{id}})
+    await Character.findOne({
+      where:{id},
+      include: {all: true},
+    })
     .then(character=>res.json(character))
     .catch(err=>res.status(400).send(err))
   },
