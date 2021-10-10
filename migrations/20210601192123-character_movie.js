@@ -2,7 +2,7 @@
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.createTable('Actors_Movies', {
+    await queryInterface.createTable('Characters_Movies', {
       id: {
         allowNull: false,
         autoIncrement: true,
@@ -13,8 +13,7 @@ module.exports = {
         type: Sequelize.DataTypes.INTEGER,
         references: {
           model: {
-            tableName: 'actors',
-            // schema: 'schema'
+            tableName: 'chacacters',
           },
           key: 'id'
         },
@@ -25,7 +24,6 @@ module.exports = {
         references: {
           model: {
             tableName: 'movies',
-            // schema: 'schema'
           },
           key: 'id'
         },
@@ -42,6 +40,6 @@ module.exports = {
     });
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('Actors_Movies');
+    await queryInterface.dropTable('Characters_Movies');
   }
 };

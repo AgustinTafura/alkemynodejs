@@ -11,42 +11,25 @@ module.exports = {
       title: {
         type: Sequelize.STRING
       },
-      awards: {
+      image: {
+        type: Sequelize.STRING
+      },
+      qualification: {
         type: Sequelize.INTEGER
       },
       releaseDate: {
         type: Sequelize.DATE
-      },
-      length: {
-        type: Sequelize.SMALLINT
       },
       genreId: {
         type: Sequelize.DataTypes.INTEGER,
         references: {
           model: {
             tableName: 'genres',
-            // schema: 'schema'
           },
           key: 'id'
         },
         allowNull: false
       },
-      revenue: {
-        type: Sequelize.INTEGER
-      },
-      directorId: {
-        type: Sequelize.DataTypes.INTEGER,
-        references: {
-          model: {
-            tableName: 'directors',
-            // schema: 'schema'
-          },
-          key: 'id'
-        },
-        allowNull: false
-      },
-
-
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE
