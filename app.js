@@ -7,7 +7,7 @@ const passport = require('passport');
 const bodyParser = require("body-parser");
 
 var indexRouter = require('./routes/index');
-// var usersRouter = require('./routes/users');
+var charactersRouter = require('./routes/characters');
 
 var app = express();
 require('./lib/passport');
@@ -32,6 +32,7 @@ app.use(passport.session()) //passport session
 
 // Routes
 app.use('/', indexRouter);
+app.use('/characters', charactersRouter);
 // app.use('/users', usersRouter);
 app.use(require('./routes/authentication'));
 

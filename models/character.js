@@ -14,11 +14,11 @@ module.exports = (sequelize, DataTypes) => {
     }
   };
   Character.init({
-    name: DataTypes.STRING,
-    image: DataTypes.STRING,
-    age: DataTypes.INTEGER,
-    weight: DataTypes.INTEGER,
-    history: DataTypes.STRING
+    name: { type: DataTypes.STRING, allowNull: false},
+    image: { type: DataTypes.STRING, allowNull: false},
+    age: { type: DataTypes.INTEGER, allowNull: false},
+    weight: { type: DataTypes.INTEGER, allowNull: false},
+    history: { type: DataTypes.STRING, allowNull: false}
   }, {
     sequelize,
     modelName: 'Character',
