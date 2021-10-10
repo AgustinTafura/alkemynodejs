@@ -1,0 +1,572 @@
+[
+	{
+		"id" : 1,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Winter Is Coming",
+		"number" : 1,
+		"release_date" : "2011-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 1
+	},
+	{
+		"id" : 2,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The North Remembers",
+		"number" : 1,
+		"release_date" : "2012-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 2
+	},
+	{
+		"id" : 3,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Valar Dohaeris",
+		"number" : 1,
+		"release_date" : "2013-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 3
+	},
+	{
+		"id" : 4,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Two Swords",
+		"number" : 1,
+		"release_date" : "2014-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 4
+	},
+	{
+		"id" : 5,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Wars to Come",
+		"number" : 1,
+		"release_date" : "2015-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 5
+	},
+	{
+		"id" : 6,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Red Woman",
+		"number" : 1,
+		"release_date" : "2016-01-01 00:00:00",
+		"rating" : 7.7,
+		"season_id" : 6
+	},
+	{
+		"id" : 7,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Pilot",
+		"number" : 1,
+		"release_date" : "2005-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 8
+	},
+	{
+		"id" : 8,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "In My Time of Dying",
+		"number" : 1,
+		"release_date" : "2006-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 9
+	},
+	{
+		"id" : 9,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Magnificent Seven",
+		"number" : 1,
+		"release_date" : "2007-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 10
+	},
+	{
+		"id" : 10,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Lazarus Rising",
+		"number" : 1,
+		"release_date" : "2008-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 11
+	},
+	{
+		"id" : 11,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Sympathy for the Devil",
+		"number" : 1,
+		"release_date" : "2009-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 12
+	},
+	{
+		"id" : 12,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Exile on Main St.",
+		"number" : 1,
+		"release_date" : "2010-01-01 00:00:00",
+		"rating" : 7.7,
+		"season_id" : 13
+	},
+	{
+		"id" : 13,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Meet the New Boss",
+		"number" : 1,
+		"release_date" : "2011-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 14
+	},
+	{
+		"id" : 14,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "We Need to Talk About Kevin",
+		"number" : 1,
+		"release_date" : "2012-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 15
+	},
+	{
+		"id" : 15,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "I Think Im Gonna Like It Here",
+		"number" : 1,
+		"release_date" : "2013-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 16
+	},
+	{
+		"id" : 16,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "A Very Special Supernatural Special",
+		"number" : 1,
+		"release_date" : "2014-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 17
+	},
+	{
+		"id" : 17,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Out of the Darkness, Into the Fire",
+		"number" : 1,
+		"release_date" : "2015-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 18
+	},
+	{
+		"id" : 18,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Days Gone Bye",
+		"number" : 1,
+		"release_date" : "2010-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 20
+	},
+	{
+		"id" : 19,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "What Lies Ahead",
+		"number" : 1,
+		"release_date" : "2011-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 21
+	},
+	{
+		"id" : 20,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Seed",
+		"number" : 1,
+		"release_date" : "2012-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 22
+	},
+	{
+		"id" : 21,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "30 Days Without an Accident",
+		"number" : 1,
+		"release_date" : "2013-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 23
+	},
+	{
+		"id" : 22,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "No Sanctuary",
+		"number" : 1,
+		"release_date" : "2014-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 24
+	},
+	{
+		"id" : 23,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "First Time Again",
+		"number" : 1,
+		"release_date" : "2015-01-01 00:00:00",
+		"rating" : 7.7,
+		"season_id" : 25
+	},
+	{
+		"id" : 24,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Pilot",
+		"number" : 1,
+		"release_date" : "2011-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 27
+	},
+	{
+		"id" : 25,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Contingency",
+		"number" : 1,
+		"release_date" : "2012-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 28
+	},
+	{
+		"id" : 26,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Liberty",
+		"number" : 1,
+		"release_date" : "2013-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 29
+	},
+	{
+		"id" : 27,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Panopticon",
+		"number" : 1,
+		"release_date" : "2015-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 30
+	},
+	{
+		"id" : 28,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "B.S.O.D.",
+		"number" : 1,
+		"release_date" : "2016-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 31
+	},
+	{
+		"id" : 29,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Pilot",
+		"number" : 1,
+		"release_date" : "2005-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 32
+	},
+	{
+		"id" : 30,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Bad Fish Paradigm",
+		"number" : 1,
+		"release_date" : "2006-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 33
+	},
+	{
+		"id" : 31,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Electric Can Opener Fluctuation",
+		"number" : 1,
+		"release_date" : "2007-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 34
+	},
+	{
+		"id" : 32,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Robotic Manipulation",
+		"number" : 1,
+		"release_date" : "2008-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 35
+	},
+	{
+		"id" : 33,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Skank Reflex Analysis",
+		"number" : 1,
+		"release_date" : "2009-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 36
+	},
+	{
+		"id" : 34,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Date Night Variable",
+		"number" : 1,
+		"release_date" : "2010-01-01 00:00:00",
+		"rating" : 7.7,
+		"season_id" : 37
+	},
+	{
+		"id" : 35,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Hofstadter Insufficiency",
+		"number" : 1,
+		"release_date" : "2011-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 38
+	},
+	{
+		"id" : 36,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Locomotion Interruption",
+		"number" : 1,
+		"release_date" : "2012-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 39
+	},
+	{
+		"id" : 37,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Matrimonial Momentum",
+		"number" : 1,
+		"release_date" : "2013-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 40
+	},
+	{
+		"id" : 38,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Pilot",
+		"number" : 1,
+		"release_date" : "2009-01-01 00:00:00",
+		"rating" : 7.3,
+		"season_id" : 42
+	},
+	{
+		"id" : 39,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Seven Thirty-Seven",
+		"number" : 1,
+		"release_date" : "2010-01-01 00:00:00",
+		"rating" : 8.3,
+		"season_id" : 43
+	},
+	{
+		"id" : 40,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "No Más",
+		"number" : 1,
+		"release_date" : "2011-01-01 00:00:00",
+		"rating" : 6.3,
+		"season_id" : 44
+	},
+	{
+		"id" : 41,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Box Cutter",
+		"number" : 1,
+		"release_date" : "2012-01-01 00:00:00",
+		"rating" : 7.5,
+		"season_id" : 45
+	},
+	{
+		"id" : 42,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Live Free or Die",
+		"number" : 1,
+		"release_date" : "2013-01-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 43,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Madrigal",
+		"number" : 2,
+		"release_date" : "2013-02-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 44,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Hazard Pay",
+		"number" : 3,
+		"release_date" : "2013-03-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 45,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Fifty-One",
+		"number" : 4,
+		"release_date" : "2013-04-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 46,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Dead Freight",
+		"number" : 5,
+		"release_date" : "2013-05-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 47,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Buyout",
+		"number" : 6,
+		"release_date" : "2013-06-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 48,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Say My Name",
+		"number" : 7,
+		"release_date" : "2013-06-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 49,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Gliding Over All",
+		"number" : 8,
+		"release_date" : "2013-07-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 50,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Blood Money",
+		"number" : 9,
+		"release_date" : "2013-07-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 51,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Buried",
+		"number" : 10,
+		"release_date" : "2013-07-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 52,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Confessions",
+		"number" : 11,
+		"release_date" : "2013-08-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 53,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Rabid Dog",
+		"number" : 12,
+		"release_date" : "2013-09-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 54,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "To hajiilee",
+		"number" : 13,
+		"release_date" : "2013-10-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 55,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Ozymandias",
+		"number" : 14,
+		"release_date" : "2013-11-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 56,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Granite State",
+		"number" : 15,
+		"release_date" : "2013-12-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	},
+	{
+		"id" : 57,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Felina",
+		"number" : 16,
+		"release_date" : "2013-12-01 00:00:00",
+		"rating" : 9.3,
+		"season_id" : 46
+	}
+]

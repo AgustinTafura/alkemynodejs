@@ -1,0 +1,56 @@
+[
+	{
+		"id" : 1,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Game of Thrones",
+		"release_date" : "2011-01-01 00:00:00",
+		"end_date" : "2016-03-04 00:00:00",
+		"genre_id" : 11
+	},
+	{
+		"id" : 2,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Supernatural",
+		"release_date" : "2005-01-01 00:00:00",
+		"end_date" : "2016-01-04 00:00:00",
+		"genre_id" : 6
+	},
+	{
+		"id" : 3,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Walking Dead",
+		"release_date" : "2010-01-01 00:00:00",
+		"end_date" : "2016-01-04 00:00:00",
+		"genre_id" : 2
+	},
+	{
+		"id" : 4,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Person of Interest",
+		"release_date" : "2011-01-01 00:00:00",
+		"end_date" : "2015-01-04 00:00:00",
+		"genre_id" : 4
+	},
+	{
+		"id" : 5,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "The Big Bang Theory",
+		"release_date" : "2007-01-01 00:00:00",
+		"end_date" : "2016-01-04 00:00:00",
+		"genre_id" : 1
+	},
+	{
+		"id" : 6,
+		"created_at" : null,
+		"updated_at" : null,
+		"title" : "Breaking Bad",
+		"release_date" : "2008-01-01 00:00:00",
+		"end_date" : "2013-01-04 00:00:00",
+		"genre_id" : 3
+	}
+]
