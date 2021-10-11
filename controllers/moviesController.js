@@ -5,20 +5,23 @@ module.exports = {
 
   getAllMovies :  async(req, res, next) => {
 
-    const { title, genre  } = req.query
+    const { title, genre, order  } = req.query
     const whereStatement = {};
+    var filterStatement = [];
     const whereGenreStatement = {};
 
     if(title !== undefined){ whereStatement.title = title}
-    if(genre !== undefined){ whereGenreStatement.id = genre}
-    
+    if(order !== undefined){ filterStatement.push(['releaseDate', order])}
+    if(genre !== undefined){ whereStatement.id = genre}
+
     try {
       const movies = await Movie.findAll({
         where: whereStatement,
         attributes: ['title', 'image', 'releaseDate'],
+        order: filterStatement, // order by releaseDate
         include: {
           model: Genre,
-          where: whereGenreStatement
+          where: whereStatement.id
         },
       })
       return res.status(201).json({movies});
