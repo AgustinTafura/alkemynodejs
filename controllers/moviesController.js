@@ -3,26 +3,25 @@ const {Movie, Character, Genre}  = require('../models/index');
 
 module.exports = {
 
-  getAllCharacters :  async(req, res, next) => {
+  getAllMovies :  async(req, res, next) => {
 
-    const { name, age, movies  } = req.query
+    const { title, genre  } = req.query
     const whereStatement = {};
-    const whereMovieStatement = {};
+    const whereGenreStatement = {};
 
-    if(name !== undefined){ whereStatement.name = name}
-    if(age !== undefined){ whereStatement.age = age}
-    if(movies !== undefined){ whereMovieStatement.id = movies}
-
+    if(title !== undefined){ whereStatement.title = title}
+    if(genre !== undefined){ whereGenreStatement.id = genre}
+    
     try {
-      const characters = await Character.findAll({
+      const movies = await Movie.findAll({
         where: whereStatement,
-        // attributes: ['name', 'image']
+        attributes: ['title', 'image', 'releaseDate'],
         include: {
-          model: Movie,
-          where: whereMovieStatement
+          model: Genre,
+          where: whereGenreStatement
         },
       })
-      return res.status(201).json({characters:characters});
+      return res.status(201).json({movies});
 
     } catch (error) {
       console.log(error)
@@ -30,37 +29,36 @@ module.exports = {
     }
   },
 
-  getCharacter : async (req, res) => {
+  getMovie : async (req, res) => {
     const {id} = req.params
-    await Character.findOne({
+    await Movie.findOne({
       where:{id},
-      include: {all: true},
+      // include: {all: true},
     })
-    .then(character=>res.json(character))
+    .then(movie=>res.json(movie))
     .catch(err=>res.status(400).send(err))
   },
 
-  createCharacter : async (req, res) => {
-    const {name, image, age, weight, history} = req.body
+  createMovie : async (req, res) => {
+    const {title, image, qualification, releaseDate, genreId} = req.body
 
-    await Character.create({name, image, age, weight, history})
-    .then(character=>res.json(character))
+    await Movie.create({title, image, qualification, releaseDate, genreId})
+    .then(movie=>res.json(movie))
     .catch(err=>res.status(400).send(err))
   },
 
-  updateCharacter : async (req, res) => {
+  updateMovie : async (req, res) => {
     const {id} = req.params
-    const {name, image, age, weight, history} = req.body
-    console.log(name, image, age, weight, history)
-    await Character.update({name, image, age, weight, history}, {where:{id}})
+    const {title, image, qualification, releaseDate, genreId} = req.body
+    await Movie.update({title, image, qualification, releaseDate, genreId}, {where:{id}})
     .then(()=>res.sendStatus(204))
     .catch(err=>res.status(400).send(err))
   },
 
-  removeCharacter : async (req, res) => {
+  removeMovie : async (req, res) => {
     const { id } = req.params
 
-    await Character.destroy({ where: {id} })
+    await Movie.destroy({ where: {id} })
     .then(()=>res.sendStatus(204))
     .catch(err=>res.status(400).send(err))
   },
