@@ -19,7 +19,7 @@ module.exports = (sequelize, DataTypes) => {
     image: {type: DataTypes.STRING, allowNull: false},
     qualification: {type: DataTypes.INTEGER, allowNull: false},
     releaseDate: {type: DataTypes.DATE, allowNull: false},
-    // genreId: {type: DataTypes.INTEGER, allowNull: false,},
+    genreId: {type: DataTypes.INTEGER, allowNull: false,},
   }, {
     sequelize,
     modelName: 'Movie',
