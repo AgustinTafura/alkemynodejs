@@ -1,16 +1,16 @@
 var express = require('express');
 var router = express.Router();
 
-const { getAllCharacters, getCharacter, updateCharacter, createCharacter, removeCharacter } = require("../controllers/charactersController")
+// const { getAllMovies, getMovie, updateMovie, createMovie, removeMovie } = require("../controllers/moviesController")
 
-/* GET all Characters. */
-router.route('/')
-  .get(getAllCharacters)
-  .post(createCharacter)
+// /* GET all Movies. */
+// router.route('/')
+//   .get(getAllMovies)
+//   .post(createMovie)
 
-router.route('/:id')
-  .get(getCharacter)
-  .put(updateCharacter)
-  .delete(removeCharacter)
+// router.route('/:id')
+//   .get(getMovie)
+//   .put(updateMovie)
+//   .delete(removeMovie)
 
 module.exports = router;

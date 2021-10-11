@@ -15,13 +15,11 @@ module.exports = {
 
     try {
       const characters = await Character.findAll({
-        where: whereStatement, // for Characters
-        attributes: ['name', 'image'],
+        where: whereStatement,
+        // attributes: ['name', 'image']
         include: {
           model: Movie,
-          where: whereMovieStatement, // for MoviesId
-          attributes: ['id'],
-          through: { attributes: [] } // this will remove the rows from the join table 
+          where: whereMovieStatement
         },
       })
       return res.status(201).json({characters:characters});
