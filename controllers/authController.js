@@ -7,7 +7,7 @@ const helpers = require('../lib/helpers')
 
 module.exports = {
 
-  createUser:  async (req, res, next) => {
+  registerUser:  async (req, res, next) => {
     const { email, password } = req.body
     
     try {
@@ -32,6 +32,8 @@ module.exports = {
       )
       .then(async user=>{
         const token = await generateAccessToken(user.id)
+
+        // save user token
         user.dataValues.token = token
         //sent welcome email 
         sendEmail('agustintafura@gmail.com', 'REGISTER COMPLETE', 'WELCOME! REGISTER COMPLETE')
@@ -42,9 +44,35 @@ module.exports = {
     } catch (err) {
       console.log(444, err);
     }
-  }
+  },
 
+  loginUser: async (req, res)=>{
+    try {
+      const { email, password } = req.body;
   
+      // Validate
+      if (!(email && password)) {
+        res.status(400).send("email and password are required");
+      }
+
+      // Validate if user exist in our database
+      const user = await User.findOne({ where:{email} });
+  
+      if (user && (await helpers.matchPassword(password, user.password))) {
+
+        const token = await generateAccessToken(user.id)
+        
+
+        // save user token
+        user.dataValues.token = token;
+
+        return res.status(200).json(user);
+      }
+      res.status(400).send("Invalid Credentials");
+    } catch (err) {
+      console.log(err);
+    }
+  }
 
 
 }
