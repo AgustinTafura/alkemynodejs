@@ -10,6 +10,7 @@ const indexRouter = require('./routes/index');
 const charactersRouter = require('./routes/characters');
 const moviesRouter = require('./routes/movies');
 const authRouter = require('./routes/authentication')
+const usersRouter = require('./routes/users')
 
 var app = express();
 // require('./lib/passport');
@@ -37,6 +38,7 @@ app.use('/', indexRouter);
 app.use('/characters', charactersRouter);
 app.use('/movies', moviesRouter);
 app.use('/auth', authRouter);
+app.use('/users', usersRouter);
 
 // app.use('/users', usersRouter);
 
