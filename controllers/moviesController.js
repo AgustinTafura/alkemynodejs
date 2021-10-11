@@ -52,6 +52,7 @@ module.exports = {
   updateMovie : async (req, res) => {
     const {id} = req.params
     const {title, image, qualification, releaseDate, genreId} = req.body
+
     await Movie.update({title, image, qualification, releaseDate, genreId}, {where:{id}})
     .then(()=>res.sendStatus(204))
     .catch(err=>res.status(400).send(err))
@@ -62,7 +63,7 @@ module.exports = {
 
     await Movie.destroy({ where: {id} })
     .then(()=>res.sendStatus(204))
-    .catch(err=>res.status(400).send(err))
+    .catch(err=>{console.log(err); res.status(400).send(err)})
   },
 
 

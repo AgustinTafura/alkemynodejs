@@ -11,7 +11,7 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       this.belongsTo(models.Genre);
-      this.belongsToMany(models.Character, { through: 'characters_movies' })
+      this.belongsToMany(models.Character, { through: 'characters_movies', onDelete: 'cascade'} )
     }
   };
   Movie.init({

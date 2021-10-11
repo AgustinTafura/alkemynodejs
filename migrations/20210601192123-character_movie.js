@@ -17,7 +17,8 @@ module.exports = {
           },
           key: 'id'
         },
-        allowNull: false
+        allowNull: false,
+        onDelete: 'cascade'
       },
       movieId: {
         type: Sequelize.DataTypes.INTEGER,
@@ -27,7 +28,9 @@ module.exports = {
           },
           key: 'id'
         },
-        allowNull: false
+        allowNull: false,
+        onDelete: 'cascade'
+
       },
       createdAt: {
         allowNull: false,
