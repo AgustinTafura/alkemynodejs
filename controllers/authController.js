@@ -1,6 +1,6 @@
 const { Op, Sequelize } = require("sequelize");
 const {User}  = require('../models/index');
-const sendEmail = require('../lib/sendgrid')
+const {sendEmail} = require('../lib/sendgrid')
 const {generateAccessToken} = require('../lib/jwt')
 const helpers = require('../lib/helpers')
 
@@ -34,8 +34,7 @@ module.exports = {
         const token = await generateAccessToken(user.id)
         user.dataValues.token = token
         //sent welcome email 
-        sendEmail
-        console.log('user', user)
+        sendEmail('agustintafura@gmail.com', 'REGISTER COMPLETE', 'WELCOME! REGISTER COMPLETE')
         res.json(user);
       })
       .catch(err=>{console.log(111, err);res.status(400).send(err)})
@@ -43,7 +42,10 @@ module.exports = {
     } catch (err) {
       console.log(444, err);
     }
-  
   }
+
+  
+
+
 }
 
