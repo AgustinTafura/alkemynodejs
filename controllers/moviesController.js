@@ -27,7 +27,6 @@ module.exports = {
       return res.status(201).json({movies});
 
     } catch (error) {
-      console.log(error)
       return res.status(500).json({errors: error.message})
     }
   },

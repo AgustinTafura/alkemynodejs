@@ -1,34 +1,28 @@
 const express = require('express');
 const router = express.Router();
+
+const { createUser, getUser } = require("../controllers/authController")
+
 const passport = require('passport');
 const {generateAccessToken} = require('../lib/jwt'); //helper JWT
 const {isLoggedIn, isNotLoggedIn} = require('../lib/auth');
 
 
 //Register
-router.get('/register', isNotLoggedIn, (req, res, next) => {
-  res.render('auth/register')
-  req.session.errors = null;
-  req.session.dataForm = null;
+router.get('/register', (req, res, next) => {
+
+  
+  res.json({auth: 'register'})
 })
 
-router.post('/register', isNotLoggedIn, (req, res, next) => {
-  var redirectTo = req.session.redirectTo || '/';
-
-  passport.authenticate('local.singup', {
-      successRedirect: redirectTo,
-      failureRedirect: '/register',
-    })(req, res, next),
-
-  delete req.session.redirectTo
-});
+router.route('/register')
+  .post(createUser)
 
 
 //Login
-router.get('/login', isNotLoggedIn, (req, res) => {
-  res.render('auth/login');
-  req.session.errors = null;
-  req.session.dataForm = null;
+router.get('/login', (req, res, next) => {
+  res.json({auth: 'login'})
+
 })
 
 router.post('/login',passport.authenticate('local.singin',{failureRedirect: '/login'}), (req, res, next) => {
