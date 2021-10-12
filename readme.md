@@ -43,3 +43,9 @@ npm start
 # see package.json for all scripts 
 ```
 
+## API 
+```bash
+[API Documentation](https://documenter.getpostman.com/view/17880007/UV5TFKNX)
+
+```
+
