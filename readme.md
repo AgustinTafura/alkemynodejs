@@ -44,8 +44,7 @@ npm start
 ```
 
 ## API 
-```bash
+
 [API Documentation](https://documenter.getpostman.com/view/17880007/UV5TFKNX)
 
-```
 
